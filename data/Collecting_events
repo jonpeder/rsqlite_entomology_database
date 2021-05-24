@@ -1,0 +1,185 @@
+"eventID"	"countryCode"	"stateProvince"	"county"	"strand_id"	"municipality"	"locality_1"	"locality_2"	"habitat"	"decimalLatitude"	"decimalLongitude"	"coordinateUncertaintyInMeters"	"samplingProtocol"	"eventDate_1"	"eventDate_2"	"recordedBy"	"type"	"orient"	"dist_m"	"eventRemarks"	"institution"	"project"
+"JPL_A001"	"NO"	""	"Agder"	"AAI"	"Evje og Hornnes"	"Evjemoen"	"Jørgen Løvlands veg"	"Pinus forest"	58.562101	7.777982	100	"sn"	"2020-06-18"	""	"Jon Peder Lindemann"	"Adressenavn (veg/gate)"	"NW"	"150"	""	NA	NA
+"JPL_A002"	"NO"	""	"Agder"	"AAI"	"Evje og Hornnes"	"Evjemoen"	"Evjemoen"	"shooting range"	58.566268	7.78804	100	"pt"	"2020-06-18"	"2020-06-19"	"Jon Peder Lindemann"	"Mo"	"NE"	"193"	""	NA	NA
+"JPL_A003"	"NO"	""	"Agder"	"AAI"	"Bygland"	"Heddeviki"	"Hedde"	"Hay meadow"	58.9342645	7.7245276	100	"sn"	"2020-06-19"	""	"Jon Peder Lindemann"	"Gammel bosettingsplass"	"W"	"48"	""	NA	NA
+"JPL_A004"	"NO"	""	"Agder"	"AAI"	"Bygland"	"Heddeviki"	"Hedde"	"Hay meadow"	58.9342645	7.7245276	100	"pt"	"2020-06-19"	""	"Jon Peder Lindemann"	"Gammel bosettingsplass"	"W"	"48"	""	NA	NA
+"JPL_A005"	"NO"	""	"Agder"	"AAI"	"Bygland"	"Heddeviki"	"Heddeviksfjell"	"Ulmus forest"	58.9350891	7.7265553	100	"sn"	"2020-06-19"	""	"Jon Peder Lindemann"	"Rygg"	"S"	"44"	""	NA	NA
+"JPL_A006"	"NO"	""	"Agder"	"AAI"	"Bygland"	"Heddeviki"	"Kvivodden"	"Roadside"	58.9386955	7.7138811	100	"sn"	"2020-06-19"	""	"Jon Peder Lindemann"	"Jorde"	"SW"	"329"	""	NA	NA
+"JPL_A007"	"NO"	""	"Agder"	"AAI"	"Evje og Hornnes"	"Fennefoss"	"Svinehagen"	"Quercus forest"	58.585457	7.775978	100	"sn"	"2020-06-21"	""	"Jon Peder Lindemann"	"Havnehage"	"N"	"36"	""	NA	NA
+"JPL_A008"	"NO"	""	"Agder"	"AAY"	"Froland"	"Jordalsknuten"	"Soppåsen"	"Fire area"	58.62778	8.26139	100	"sn"	"2020-06-21"	""	"Jon Peder Lindemann"	"Ås"	"SW"	"144"	""	NA	NA
+"JPL_A009"	"NO"	""	"Oslo"	"AK"	"Oslo"	"Bøler"	"Haraløkka"	"Oreganium vulgare leaf mines"	59.883235	10.854055	10	"rd"	"2020-06-22"	"2020-06-29"	"Jon Peder Lindemann"	"Adressenavn (veg/gate)"	"N"	"69"	""	NA	NA
+"JPL_A010"	"NO"	""	"Oslo"	"AK"	"Oslo"	"Skulleruddumpa"	"Skullerudbakken"	"Hieracium umbellatum capitulum"	59.86467	10.831059	10	"rd"	"2016-09-27"	""	"Jon Peder Lindemann"	"Adressenavn (veg/gate)"	"NW"	"255"	""	NA	NA
+"JPL_A011"	"NO"	""	"Vestfold og Telemark"	"VE"	"Larvik"	"Arøya"	"Hølen"	"Decideous forest"	58.997453	9.801017	200	"sn"	"2020-07-12"	""	"Jon Peder Lindemann"	"Dal"	"W"	"103"	""	NA	NA
+"JPL_A012"	"NO"	""	"Vestfold og Telemark"	"VE"	"Larvik"	"Arøya"	"Slåvika"	"Ocean-shore"	58.99383	9.800104	200	"sn"	"2020-07-12"	""	"Jon Peder Lindemann"	"Vik i sjø"	"N"	"72"	""	NA	NA
+"JPL_A013"	"NO"	""	"Vestfold og Telemark"	"TEY"	"Bamble"	"Langøya"	"Kuskjæret"	"Meadow"	59.010496	9.755963	100	"sn"	"2020-07-11"	""	"Jon Peder Lindemann"	"Nes i sjø"	"N"	"159"	""	NA	NA
+"JPL_A014"	"NO"	""	"Agder"	"AAI"	"Evje og Hornnes"	"Gautestad"	"Mittinga"	"Eriophorum vaginatum flowers"	58.650703	7.967652	100	"rd"	"2020-06-20"	"2020-07-08"	"Jon Peder Lindemann"	"Høyde"	"NE"	"117"	""	NA	NA
+"JPL_A015"	"NO"	""	"Agder"	"AAY"	"Grimstad"	"Marivold"	"Stilleviga"	"Valeriana sambucifolia root"	58.3346943	8.6282338	10	"rd"	"2014-07-14"	""	"Jon Peder Lindemann"	"Vik i sjø"	"N"	"54"	""	NA	NA
+"JPL_A016"	"NO"	""	"Viken"	"BØ"	"Krødsherad"	"Råaråsen"	"Handklevassbekken"	"Formitopsis rosaea fruit-body"	60.118577	9.837776	10	"rd"	"2017-04-19"	"2017-04-29"	"Jon Peder Lindemann"	"Bekk"	"SW"	"632"	""	NA	NA
+"JPL_A017"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tromsøya"	"Johanhaugen"	"Eriophorum angustifolium flowers"	69.6884241	18.9739166	10	"rd"	"2020-07-17"	"2020-07-19"	"Jon Peder Lindemann"	"Ås"	"E"	"306"	""	NA	NA
+"JPL_A018"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"FØ"	"Sør-Varanger"	"Gjøkbekken"	"Gjøkåsen"	"Eriophorum vaginatum flower"	69.1525775	29.193745	10	"rd"	"2017-07-26"	"2017-07-30"	"Jon Peder Lindemann"	"Militært bygg"	"NW"	"180"	""	NA	NA
+"JPL_A019"	"NO"	""	"Vestland"	"HOY"	"Stord"	"Sagvågen"	"Bregnehaugen"	"Pilosella eurentiacum leaf-mine"	59.7818256	5.3874488	10	"rd"	"2014-06-09"	""	"Jon Peder Lindemann"	"Adressenavn (veg/gate)"	"E"	"52"	""	NA	NA
+"JPL_A020"	"NO"	""	"Nordland"	"NSI"	"Mosjøen"	"Elvegata"	""	"Achillea millefolium capitulum"	65.8347676	13.1914507	10	"rd"	"2016-08-10"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A021"	"NO"	""	"Innlandet"	"ON"	"Lom"	"Memurubu"	"Memurubu"	"Eriophorum angustifolium flower"	61.4898387	8.632266	10	"rd"	"2014-07-27"	"2014-07-30"	"Jon Peder Lindemann"	"Turisthytte"	"SE"	"143"	""	NA	NA
+"JPL_A022"	"NO"	""	"Innlandet"	"ON"	"Lom"	"Surtningsue"	"Surtningssubekken"	"Circium helenoides leaf-mine"	61.5282681	8.5316658	10	"rd"	"2014-07-28"	""	"Jon Peder Lindemann"	"Bekk"	"SE"	"131"	""	NA	NA
+"JPL_A023"	"NO"	""	"Viken"	"Ø"	"Aremark"	"Lundsneset"	"Folungdalen"	"Pine forest"	59.052831	11.7250757	100	"sn"	"2017-08-13"	""	"Jon Peder Lindemann"	"Dal"	"NW"	"163"	""	NA	NA
+"JPL_A024"	"NO"	""	"Viken"	"Ø"	"Råde"	"Slangsvold"	"Leiedalen"	"Achillea ptarmica capitulum"	59.3729147	10.9511972	10	"rd"	"2015-08-06"	""	"Jon Peder Lindemann"	"Bruk (gardsbruk)"	"NW"	"88"	""	NA	NA
+"JPL_A025"	"NO"	""	"Viken"	"Ø"	"Hvaler"	"Skjærhalden"	"Prestesand"	"Sandy beach"	59.025967	11.017613	100	"sn"	"2017-07-12"	""	"Jon Peder Lindemann"	"Strand i sjø"	"N"	"106"	""	NA	NA
+"JPL_A026"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Kvaløya"	"Ramnberget"	"Eriophorum angustifolium flowers"	69.698108	18.631619	10	"rd"	"2020-07-25"	"2020-07-29"	"Jon Peder Lindemann"	"Berg"	"S"	"255"	""	NA	NA
+"JPL_A027"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tønsvik"	"Klubbholmen"	"Juncus gerardii meadow"	69.741886	19.159154	100	"sn"	"2020-08-01"	""	"Jon Peder Lindemann"	"Nes i sjø"	"SE"	"336"	""	NA	NA
+"JPL_A028"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tønsvik"	"Klubbholmen"	"Beach meadow"	69.741983	19.154584	100	"sn"	"2020-08-01"	""	"Jon Peder Lindemann"	"Nes i sjø"	"S"	"230"	""	NA	NA
+"JPL_A029"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tromsdalen"	"Salen"	"High-alpine area"	69.593511	19.095299	100	"sn"	"2020-07-31"	""	"Jon Peder Lindemann"	"Skar"	"SW"	"377"	""	NA	NA
+"JPL_A030"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tromsøya"	"Hansmark"	"on Alopecurus arundinaceus"	69.64451	18.897574	10	"sn"	"2020-08-03"	""	"Jon Peder Lindemann"	"Lykt (Fyrlykt)"	"S"	"189"	""	NA	NA
+"JPL_A031"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tromsøya"	"Trudvangvegen"	"Eriophorum angustifolium flowers"	69.688952	18.983319	10	"rd"	"2020-07-23"	"2020-07-30"	"Jon Peder Lindemann"	"Adressenavn (veg/gate)"	"N"	"105"	""	NA	NA
+"JPL_A032"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Tønsvik"	"Skytterstien"	"Eriophorum angustifolium flowers"	69.740844	19.152379	10	"rd"	"2020-08-01"	"2020-08-02"	"Jon Peder Lindemann"	"Adressenavn (veg/gate)"	"NE"	"238"	""	NA	NA
+"JPL_A033"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tranøy"	"Jøvik"	"Skipbåtsneset"	"On Leymus arenarius"	69.13955	17.357254	100	"sn"	"2020-08-09"	""	"Jon Peder Lindemann"	"Nes i sjø"	"E"	"61"	""	NA	NA
+"JPL_A034"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tranøy"	"Ånderdalen"	"Floan"	"Bog/ on graminoids"	69.2106545	17.3358744	100	"sn"	"2020-08-10"	""	"Jon Peder Lindemann"	"Høl"	"SE"	"141"	""	NA	NA
+"JPL_A035"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tranøy"	"Ånderdalen"	"Åndervatnet"	"old pine trees"	69.2246377	17.3234613	100	"sn"	"2020-08-10"	""	"Jon Peder Lindemann"	"Vann"	"NE"	"724"	""	NA	NA
+"JPL_A036"	"NO"	""	""	"AAY"	"Grimstad"	"Roresand"	"Sandkleiva"	"Sand pit"	58.3470894	8.5332139	25	"pt"	"2017-04-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A037"	"NO"	""	""	"Ø"	"Aremark"	"Lundsneset"	"Budalsvika"	"Mixed forest"	59.051488	11.735523	100	"pt"	"2017-08-12"	"2017-08-13"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A038"	"NO"	""	""	"FØ"	"Sør-Varanger"	"Passvikdalen"	"Sukkeråsen"	"Pine forest/bog"	69.3593115	29.4211746	50	"pt"	"2017-07-25"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A039"	"NO"	""	""	"Ø"	"Aremark"	"Lundsneset"	"S. Blekketjern"	"Pine forest"	59.0569364	11.7308573	100	"pt"	"2017-08-11"	"2017-08-13"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A040"	"US"	"California"	"LA"	""	"Valyermo"	"Bobs gap"	""	"Juniper-joshua tree woodland"	34.451574	-117.811769	50	"sn"	"2017-06-10"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A041"	"US"	"California"	"LA"	""	"Wrightwood"	"Big Pines"	""	"Pine forest"	34.387905	-117.713691	20	"pt"	"2017-06-12"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A042"	"US"	"California"	"LA"	""	"Wrightwood"	"Big Pines"	""	"Creek"	34.389152	-117.714748	20	"pt"	"2017-06-05"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A043"	"NO"	""	""	"SFI"	"Luster"	"Fortundalen"	"Flåteigen"	"Hay meadow"	61.5553344	7.7698407	25	"sn"	"2017-06-24"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A044"	"NO"	""	""	"FV"	"Alta"	"Gargia"	"Gargia fjellstue"	"River bank/Alnus forest"	69.8052548	23.4895664	50	"pt"	"2017-07-29"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A045"	"NO"	""	""	"FV"	"Alta"	"Gargia"	"Gargia fjellstue"	"Meadow/Roadside"	69.8028849	23.4937992	50	"pt"	"2017-07-29"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A046"	"NO"	""	""	"NSI"	"Grane"	"Gluggvasselva"	"Stormobekken"	"River bank"	65.5954634	13.4000534	50	"sn"	"2018-05-29"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A047"	"NO"	""	""	"AK"	"Ski"	"Krokhol"	"Årlielva"	"Spruce forest"	59.797259	10.918664	100	"sn"	"2018-06-23"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A048"	"NO"	""	""	"NSI"	"Grane"	"Auster Vefsna n.r."	"Stilleelva E"	"Solidago virgaurea capitulum"	65.5432952	13.7523164	15	"rd"	"2018-08-01"	"2018-08-10"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A049"	"NO"	""	""	"SFI"	"Luster"	"Dalsdalen"	"Kvåle"	"Meadow"	61.446871	7.46486	50	"sn"	"2017-06-23"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A050"	"NO"	""	""	"Ø"	"Hvaler"	"Kirkøy"	"Ørekroken"	"Stream/Pine forest"	59.0339661	11.0094448	100	"sn"	"2018-06-16"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A051"	"NO"	""	""	"Ø"	"Hvaler"	"Kirkøy"	"Ørekroken"	"Pine forest/Beach"	59.0330604	11.009277	100	"yp"	"2018-06-16"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A052"	"NO"	""	""	"AK"	"Oslo"	"Skullerud"	"Skullerudmyra"	"bog"	59.862551	10.86048	100	"pt"	"2017-06-22"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A053"	"NO"	""	""	"Ø"	"Hvaler"	"Kirkøy"	"Ørekroken"	"Pine forest/Beach"	59.0337616	11.0120363	30	"sn"	"2018-06-16"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A054"	"US"	"California"	"LA"	""	""	"Cedar Springs"	"Buckhart trail"	"Pine forest"	34.348572	-117.909021	50	"sn"	"2017-06-10"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A055"	"US"	"California"	"LA"	""	""	"Hidden Springs"	"Upper Big Tujunga"	"Creek"	34.307474	-118.074014	50	"sn"	"2017-06-10"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A056"	"NO"	""	""	"AAY"	"Grimstad"	"Østerhus"	"Morvigpynten"	"Pine forest"	58.3044936	8.5562702	50	"pt"	"2017-07-08"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A057"	"NO"	""	""	"AK"	"Oslo"	"Skullerud"	"Skullerudmyra"	"bog"	59.862551	10.86048	100	"pt"	"2017-05-26"	"2017-05-29"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A058"	"NO"	""	""	"NSI"	"Grane"	"Laksforsmoen"	"Geitklauvmyra"	"Spruce forest"	65.6025608	13.2860636	200	"sn"	"2018-07-30"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A060"	"NO"	""	""	"TRI"	"Målselv"	"Fosslia"	"Lystringshaugan"	"Sand pit"	69.0363418	18.6646116	100	"pt"	"2018-07-12"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A061"	"NO"	""	""	"NSI"	"Grane"	"Holmvassdalen"	"Bjørntjønna W"	"Riparian Alnus forest"	65.3299388	13.3186751	50	"mt"	"2018-08-01"	"2018-10-04"	"Jostein Kjærandsen | Patrycja Dominiak | Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A062"	"NO"	""	""	"AK"	"Oslo"	"Skullerud"	"Skullerudåsen"	"Pine forest"	59.8615681	10.8548284	50	"pt"	"2017-06-22"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A063"	"NO"	""	""	"FØ"	"Sør-Varanger"	"Passvikdalen"	"Sukkeråsen"	"Sandy area/Pine forest"	69.3571987	29.4225801	50	"pt"	"2017-07-25"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A064"	"NO"	""	""	"TRY"	"Tromsø"	"Tromsøya"	"Tromsø museum"	"Urban area"	69.634588	18.911625	5	"hp"	"2019-04-28"	""	"Robert Bergersen"	""	""	""	""	NA	NA
+"JPL_A065"	"NO"	""	""	"NSI"	"Saltdal"	"Vik"	"Tørråga"	"on spider"	67.1068133	15.3448955	5	"rd"	"2019-05-29"	"2019-06-09"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A066"	"NO"	""	""	"NSI"	"Saltdal"	"Junkerdalsura"	"Above Sagbenkhøla"	"on Spider"	66.8191339	15.4282688	20	"rd"	"2019-05-30"	"2019-06-13"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A067"	"NO"	""	""	"NSI"	"Grane"	"Storiplingdalen"	"Tømmerosen"	"Sand pit"	65.3019809	13.5558021	10	"sn"	"2018-08-02"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A068"	"NO"	""	""	"NSI"	"Grane"	"Holmvassdalen"	"Bjørntjønna S"	"Spruce forest/cave"	65.32486667	13.31888889	10	"sn"	"2018-08-01"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A069"	"NO"	""	""	"Ø"	"Hvaler"	"Søndre Sandøy"	"Nedgården"	"Disturbed area"	59.0153544	11.064963	50	"sn"	"2018-06-16"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A111"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Lulefjellet"	"on snag pine"	69.3011	20444491	10	"hp"	"2019-07-04"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A112"	"NO"	""	""	"AK"	"Oslo"	"Østensjø"	" ØstensjøvannetW"	"Meadow"	59.886284	10.824304	50	"sn"	"2016-10-05"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A113"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"FØ"	"Sør-Varanger"	"Gjøkbekken"	"Gjøkåsen"	"Bog"	69.15186	29.193207	50	"pt"	"2017-07-26"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A114"	"NO"	""	""	"AK"	"Ås"	"Herumveien"	"Herumhagen"	"Rosa sp. fruit"	59.652216	10.772646	10	"rd"	"2014-09-02"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A115"	"NO"	""	""	"AK"	"Ås"	"Måltrostveien"	"Prærien"	"Salix gall"	59.657465	10.784704	50	"rd"	"2014-07-05"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A116"	"NO"	""	""	"TRI"	"Målselv"	"Devddes"	"Devddesjavri S"	"Betula forest/ bog"	68.86857	19.66883	100	"sn"	"2018-07-14"	""	"Helene Lind | Lindemann"	""	""	""	""	NA	NA
+"JPL_A117"	"NO"	""	""	"TRI"	"Målselv"	"Devddes"	""	"slope"	68.85719	19.61802	50	"sn"	"2018-07-14"	""	"Helene Lind | Lindemann"	""	""	""	""	NA	NA
+"JPL_A118"	"CH"	""	"BE"	""	"Bern"	"Münzrain"	""	"Sonchus asper capitulum"	46.945762	7.444064	50	"rd"	"2016-08-17"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A119"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuoratoainibba"	"Alpine area"	69.2493826	20.4809269	25	"sn"	"2019-07-05"	""	"Ranjeni Sivasubramaniam"	""	""	""	""	NA	NA
+"JPL_A120"	"NO"	""	""	"NSI"	"Saltdal"	"Storjord"	"Skogvokterg."	"Pine forest"	66.8152763	15.3835966	50	"sn"	"2019-07-26"	""	"Jostein Kjærandsen"	""	""	""	""	NA	NA
+"JPL_A121"	"NO"	""	""	"TRY"	"Tromsø"	"Tromsøya"	"Alveveien"	"Urban area/indoor"	69.666759	18.925033	25	"hp"	"2019-07-30"	""	"Rita Stenersen"	""	""	""	""	NA	NA
+"JPL_A122"	"NO"	""	""	"TRY"	"Tromsø"	""	""	""	69.668046	18.942205	10000	"hp"	"2019-07-30"	""	""	""	""	""	""	NA	NA
+"JPL_A123"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRI "	"Målselv"	"Dividalen"	"Kvennstua"	"Inside Phellodon violascens fruitbody"	68.7930942	19.6973972	25	"rd"	"2020-09-12"	""	"Jon Peder Lindemann"	""	"E"	"377"	""	NA	NA
+"JPL_A124"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRI "	"Målselv"	"Dividalen"	"Kvennstua"	"Pine forest"	68.7930942	19.6973972	25	"sn"	"2020-09-12"	""	"Jon Peder Lindemann"	""	"E"	"377"	""	NA	NA
+"JPL_A125"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRI "	"Målselv"	"Dividalen"	"Storsteinura"	"Pine forest"	68.8304635	19.627529	25	"sn"	"2020-09-12"	""	"Jon Peder Lindemann"	""	"NW"	"321"	""	NA	NA
+"JPL_A126"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRI "	"Målselv"	"Dividalen"	"Langmyrhaugen"	"Pine forest"	68.7211733	19.7646805	25	"sn"	"2020-09-13"	""	"Jon Peder Lindemann"	""	"N"	"69"	""	NA	NA
+"JPL_A127"	"NO"	""	"Troms og Finnmark - Romsa ja Finnmárku - Tromssa ja Finmarkku"	"TRY"	"Tromsø"	"Sandøya"	"Langsandan"	"Beach/Ocean shore"	70.030831	18.557335	25	"sn"	"2020-09-06"	""	"Jon Peder Lindemann"	""	"NW"	"115"	""	NA	NA
+"JPL_A070"	"NO"	""	""	"ON"	"Dovre"	"E Angard E"	"Solsidevegen"	"Alnus/Prunus forest"	61.9722	9.2694	100	"sn"	"2017-11-26"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 535479 "	NA	NA
+"JPL_A071"	"NO"	""	""	"TRI"	"Målselv"	"Frihetsli"	"Anaskåla"	""	68.7739	19.7274	1500	"sn"	"2017-07-04"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 533499"	NA	NA
+"JPL_A072"	"NO"	""	""	"AAY"	"Arendal"	"Alvekilen 1"	"Innerst i kilen"	"Decidous forest"	58.4644	8.8708	100	"sn"	"2017-08-04"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 529106 "	NA	NA
+"JPL_A073"	"NO"	""	""	"TEI"	"Bø"	"Bakkåker"	""	""	59.4436	9.0214	10	"mt"	"2016-06-01"	"2016-07-04"	"Torbjørn Høitomt"	""	""	""	"j.nr. 509024"	NA	NA
+"JPL_A074"	"NO"	""	""	"OS"	"Lunner"	"Grindvoll"	"Vestern-Vestby"	"tørrbakke"	60.3036	10.4695	10	"mt"	"1994-07-28"	"1994-08-07"	"Ole Jørgen Lønnve"	""	""	""	"j.nr. 513397"	NA	NA
+"JPL_A075"	"NO"	""	""	"SFI"	"Lærdal"	"Husum"	""	"naturbeitemark"	61.0469	7.7903	10	"lt"	"2016-08-01"	""	"Kai Berggren | Rein-Arne Golf"	""	""	""	"j.nr. 509050"	NA	NA
+"JPL_A076"	"NO"	""	""	"TRI"	"Bardu"	"Dalberg W"	"Altevannsveien"	"fjellbjørkeskog"	68.7105	18.6608	150	"sn"	"2017-07-02"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 531795"	NA	NA
+"JPL_A077"	"NO"	""	""	"TEI"	"Seljord"	"Heggenes"	""	"tørrbakke"	59.4403	8.7786	30	"mt"	"2015-09-04"	"2015-10-10"	"Kjell Magne Olsen"	""	""	""	"j.nr. 505220"	NA	NA
+"JPL_A078"	"NO"	""	""	"SFI"	"Luster"	"Solvorn"	"Løteigane"	""	61.3031	7.2411	50	"lt"	"2016-08-08"	"2016-09-02"	"Kai Berggren | Byrkjeland"	""	""	""	"j.nr. 521190"	NA	NA
+"JPL_A079"	"NO"	""	""	"TEY"	"Bamble"	"Åbyelva NR"	""	"Beach meadow"	58.9889	9.6534	130	"sn"	"2017-08-23"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 535590"	NA	NA
+"JPL_A080"	"NO"	""	""	"HEN"	"Stor-Elvdal"	"Trya"	"Trybekken"	"canyon"	61.5561	10.9752	250	"sn"	"2017-07-26"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 529518 "	NA	NA
+"JPL_A081"	"NO"	""	""	"TRY"	"Tromsø"	"Lillehaug SE"	"Smávvagieddi"	"stream"	69.3928	19.4971	250	"sn"	"2017-07-13"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 529486 "	NA	NA
+"JPL_A082"	"NO"	""	""	"VE"	"Larvik"	"Karto"	""	"beach meadow"	59.0241	10.205	20	"mt"	"2012-05-26"	"2012-06-18"	"Stefan Olberg"	""	""	""	"j.nr. 520134"	NA	NA
+"JPL_A083"	"NO"	""	""	"VE"	"Larvik"	"Karto"	""	"swamp forest"	59.0248	10.2054	10	"mt"	"2010-08-01"	"2010-08-22"	"Stefan Olberg"	""	""	""	"j.nr. 520116"	NA	NA
+"JPL_A084"	"NO"	""	""	"AK"	"Aurskog-Høland"	"Mikkelrud"	""	"haymeadow"	59.9761	11.6685	50	"pt"	"2017-06-13"	"2017-07-14"	"Kjell Magne Olsen | Stefan Olberg"	""	""	""	"j.nr. 530791"	NA	NA
+"JPL_A085"	"NO"	""	""	"AAI"	"Evje og Hornnes"	"Rosseland"	""	"cultural landscape"	58.5713	7.8348	10	"lt"	"2016-09-20"	"2016-10-30"	"Kai Berggren"	""	""	""	"j.nr. 520713"	NA	NA
+"JPL_A086"	"NO"	""	""	"TEI"	"Bø"	"Bakkåker"	""	""	59.4436	9.0214	10	"mt"	"2016-05-04"	"2016-05-31"	"Torbjørn Høitomt"	""	""	""	"j.nr. 508951"	NA	NA
+"JPL_A087"	"NO"	""	""	"TRI"	"Bardu"	"Stensgård"	"Østerdalsveien"	"roadside"	68.7931	18.5553	150	"sn"	"2017-07-02"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 542246 "	NA	NA
+"JPL_A088"	"NO"	""	""	"ON"	"Dovre"	"Eysteinkyrkja"	""	"roadside"	62.2221	9.5639	750	"sn"	"2017-11-29"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 529362"	NA	NA
+"JPL_A089"	"NO"	""	""	"SFI"	"Luster"	"Slettebakkane"	""	"deciduous forest"	61.55	7.7455	300	"sn"	"2017-07-24"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 534302"	NA	NA
+"JPL_A090"	"NO"	""	""	"VE"	"Hof"	"Rønnebergdammen"	""	"bog"	59.5129	10.1025	75	"hp"	"2017-08-08"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 527977"	NA	NA
+"JPL_A091"	"NO"	""	""	"ON"	"Dovre"	"Nørdre Grotåe N"	""	"stream"	62.0115	9.1805	300	"sn"	"2017-06-28"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 550288"	NA	NA
+"JPL_A092"	"NO"	""	""	"AAY"	"Arendal"	"Færvikkilen"	""	"alnus forest/beach"	58.4528	8.8153	150	"sn"	"2017-08-05"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 531924"	NA	NA
+"JPL_A093"	"NO"	""	""	"SFI"	"Lærdal"	"Moldabakkane"	""	"Pasture"	61.0613	7.5255	100	"lt"	"2015-08-01"	""	"Kai Berggren | Rein-Arne Golf"	""	""	""	"j.nr. 520615"	NA	NA
+"JPL_A094"	"NO"	""	""	"ON"	"Øystre Slidre"	"Veslkvelven S"	""	"S-slope/Betula forest"	61.4216	8.9046	100	"mt"	"2012-06-05"	"2012-07-03"	"Øyvind Gammelmo | Ole Jørgen Lønnve"	""	""	""	"j.nr. 514924"	NA	NA
+"JPL_A095"	"NO"	""	""	"BØ"	"Ringerike"	"Veksalbakken"	""	""	60.174	10.1988	10	"st"	"2016-12-26"	"2017-05-02"	"Kjell Magne Olsen"	""	""	""	"j.nr. 524788"	NA	NA
+"JPL_A096"	"NO"	""	""	"OS"	"Lunner"	"Grindvoll"	"Vestern-Vestby"	"dry meadow"	60.3036	10.4695	10	"mt"	"1994-10-09"	"1994-10-30"	"Ole Jørgen Lønnve"	""	""	""	"j.nr. 514574"	NA	NA
+"JPL_A097"	"NO"	""	""	"SFI"	"Lærdal"	"Moldabakkane"	""	"pasture"	61.0613	7.5255	100	"lt"	"2015-09-08"	""	"Kai Berggren | Rein-Arne Golf"	""	""	""	"j.nr. 520622"	NA	NA
+"JPL_A098"	"NO"	""	""	"TRI"	"Storfjord"	"Sørli"	""	""	69.2425	20.0429	150	"sn"	"2017-07-06"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 534012"	NA	NA
+"JPL_A099"	"NO"	""	""	"AK"	"Skedsmo"	"Asak Mellom N"	""	"ravine"	59.9873	11.1001	250	"sn"	"2017-06-20"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 527925"	NA	NA
+"JPL_A100"	"NO"	""	""	"AAY"	"Birkenes"	"Nordåsen"	""	"garden"	58.3334	8.24	10	"lt"	"2015-08-01"	""	"Svein Svendsen | Kai Berggren"	""	""	""	"j.nr. 520539"	NA	NA
+"JPL_A101"	"NO"	""	""	"TEI"	"Tinn"	"Mjeltegra"	""	""	60.0266	8.9289	10	"mt"	"2012-05-27"	"2012-06-28"	"Øyvind Gammelmo | Ole Jørgen Lønnve"	""	""	""	"j.nr. 515856"	NA	NA
+"JPL_A102"	"NO"	""	""	"SFI"	"Luster"	"Mordalselvi"	"Mardøleelvi"	""	61.4517	7.5444	100	"sn"	"2017-08-25"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 532264"	NA	NA
+"JPL_A103"	"NO"	""	""	"AK"	"Enebakk"	"Tangenelva"	""	"river-shore"	59.7232	11.048975	750	"sn"	"2017-11-14"	""	"Kjell Magne Olsen | Ole Jørgen Lønnve"	""	""	""	"j.nr. 526083"	NA	NA
+"JPL_A104"	"NO"	""	""	"VE"	"Larvik"	"Hummerbakkfj."	"Guslandrønningen"	"Alnus forest/beach"	58.9773	9.9204	225	"sn"	"2017-06-06"	""	"Kjell Magne Olsen | Stefan Olberg"	""	""	""	"j.nr. 524974"	NA	NA
+"JPL_A105"	"NO"	""	""	"Ø"	"Hvaler"	"Guttormsvauen"	""	"Beach meadow"	59.0861	10.85	740	"sn"	"2017-08-21"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 532612"	NA	NA
+"JPL_A106"	"NO"	""	""	"VE"	"Larvik"	"Nevlungstranda"	""	"Ocean-shore"	58.9686	9.8473	320	"sn"	"2017-06-07"	""	"Kjell Magne Olsen | Stefan Olberg | Ole Jørgen Lønnve"	""	""	""	"j.nr. 524996"	NA	NA
+"JPL_A107"	"NO"	""	""	"NSY"	"Bode"	"Ørnneset"	""	"canyon"	67.2258	14.6129	100	"sn"	"2017-07-18"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 527963"	NA	NA
+"JPL_A108"	"NO"	""	""	"TRY"	"Tromsø"	"Langnes"	""	"meadow"	69.6794	18.8966	75	"sn"	"2017-07-15"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 529043"	NA	NA
+"JPL_A109"	"NO"	""	""	"AK"	"Asker"	"Brønnøya"	"Kuhavna E"	"beach meadow"	59.8572	10.5459	20	"sn"	"2017-11-05"	""	"Kjell Magne Olsen"	""	""	""	"j.nr. 547195"	NA	NA
+"JPL_A110"	"NO"	""	""	"VE"	"Larvik"	"Sandvikbukta PFO"	""	"Alnus beach forest"	59.0117	10.1413	25	"sn"	"2017-06-06"	""	"Kjell Magne Olsen | Stefan Olberg"	""	""	""	"j.nr. 548911"	NA	NA
+"JPL_A128"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuoratoainibba"	"alpine area"	69.2476982	20.4798296	400	"sn"	"2019-07-05"	""	"Ranjeni Sivasubramaniam"	""	""	""	""	NA	NA
+"JPL_A129"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuoratoainibba"	"alpine area"	69.2476982	20.4798296	400	"sn"	"2019-07-05"	""	"Kjell Magne Olsen"	""	""	""	""	NA	NA
+"JPL_A130"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuoratoainibba"	"alpine area"	69.2484	20.46805	5	"sn"	"2019-07-05"	""	"Helene Lind | Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A131"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuoratoaimoski"	"alpine area"	69.24581	20.472035	100	"sn"	"2019-07-05"	""	"Helene Lind | Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A132"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Lávkaskaidi"	"alpine meadow"	69.23328	20.56197	25	"sn"	"2019-07-07"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A133"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Luleelva"	"Pinus forest"	69.3029117	20.4337857	10	"sn"	"2019-07-04"	""	"Ranjeni Sivasubramaniam"	""	""	""	""	NA	NA
+"JPL_A134"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotn"	"Saltirånka"	"sandy area"	69.3781136	20.2256465	10	"sn"	"2019-07-07"	""	"Helene Lind | Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A135"	"NO"	""	""	"TRY"	"Tromsø"	"Tromsdalen"	"Fløya"	"high-alpine area"	69.6243	18.9975	25	"sn"	"2019-07-08"	""	"Helene Lind"	""	""	""	""	NA	NA
+"JPL_A136"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Luleelva"	"Pinus forest"	69.3023242	20.4396587	10	"sn"	"2019-07-04"	""	"Helene Lind"	""	""	""	""	NA	NA
+"JPL_A137"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Lávkajavri"	"alpine area"	69.23103	20.49872	5	"sn"	"2019-07-05"	""	"Helene Lind | Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A138"	"NO"	""	""	"NSY"	"Sømna"	"Teisdalen"	"Teisdalen n.r."	"Ulmus forest"	65.360615	12.388195	100	"sn"	"2018-06-01"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A139"	"NO"	""	""	"Ø"	"Hvaler"	"Spjærøy"	"Tredalen"	"on Euphorbia palustris"	59.1030085	10.9268028	10	"sn"	"2018-06-17"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A140"	"NO"	""	""	"NSI"	"Grane"	"Holmvassdalen n.r."	"Bjørntjønna W"	"Alnus forest"	65.3299388	13.3186751	50	"sn"	"2018-08-01"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A141"	"NO"	""	""	"Ø"	"Hvaler"	"Kirkøy"	"Ørekroken"	"beach/Pinus forest"	59.032542	11.009506	100	"yp"	"2018-06-16"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A142"	"NO"	""	""	"NSI"	"Grane"	"Holmvassdalen"	"Bjørntjønna N"	"parking space"	65.3373878	13.3274316	50	"sn"	"2018-05-30"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A143"	"NO"	""	""	"VE"	"Horten"	"Løvøya"	"Kjerkebukta E"	"deciduous forest"	59.4509188	10.4405844	50	"sn"	"2019-08-24"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A144"	"NO"	""	""	"NSI"	"Saltdal"	"Brenne"	"Brennfallet"	"Sand slope"	67.028064	15.354708	50	"pt"	"2019-07-27"	"2019-07-28"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A145"	"NO"	""	""	"VE"	"Holmestrand"	"Rønneberg"	"Rønneberg dammen"	"bog"	59.5124263	10.1040158	30	"sn"	"2019-08-24"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A146"	"NO"	""	""	"VE"	"Horten"	"Kjølhaleskogen"	"Reverumpa"	"Quercus forest"	59.4372633	10.4555347	30	"sn"	"2019-08-24"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A147"	"NO"	""	""	"VE"	"Holmestrand"	"Rønneberg"	"Haslestad sagbruk"	"sawmill waste"	59.5112194	10.0886197	30	"sn"	"2019-08-24"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A148"	"NO"	""	""	"NSI"	"Grane"	"Børgefjell"	"Simskardet"	"alpine meadow"	65.2874585	13.6299297	100	"sn"	"2018-08-02"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A149"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuorraoaivi"	"alpine area"	69.2642883	20.4396621	200	"sn"	"2019-07-07"	""	"Helene Lind"	""	""	""	""	NA	NA
+"JPL_A150"	"NO"	""	""	"NSI"	"Saltdal"	"Storjord"	"Lønsbergneset"	"sand pit"	66.8109836	15.3969107	25	"pt"	"2019-07-26"	"2019-07-27"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A151"	"NO"	""	""	"TRI"	"Målselv"	"Dividalen"	"Kvennelva"	"roadside"	68.7922986	19.6872911	25	"sn"	"2018-07-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A152"	"NO"	""	""	"TRI"	"Målselv"	"Akka"	"Storakka"	"slope/scree"	69.2077158	18.494017	100	"sn"	"2018-07-12"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A153"	"NO"	""	""	"TRI"	"Målselv"	"Myrfjellet"	"Bjelmdalen"	"alpine ski-track"	69.0843407	18.7288982	50	"pt"	"2019-07-13"	"2018-07-14"	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A154"	"NO"	""	""	"NSI"	"Grane"	"Auster Vefsna n.r."	"Stilleelva E"	"Abies forest"	65.5415542	13.7496352	100	"sn"	"2018-05-31"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A155"	"NO"	""	""	"AK"	"Oslo"	"Skullerudmyra"	""	"bog"	59.862551	10.86048	100	"pt"	"2017-06-22"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A156"	"NO"	""	""	"TRY"	"Tromsø"	"Tromsdalen"	""	"Saussurea alpina capitulum"	69.6053486	19.0673914	100	"rd"	"2018-05-19"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A157"	"NO"	""	""	"NSI"	"Grane"	"Svenningdal"	""	"Meadow"	65.4660488	13.4084768	50	"sn"	"2018-07-31"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A158"	"NO"	""	""	"NSI"	"Grane"	"Auster Vefsna n.r."	"Stilleelva W"	"mixed forest"	65.5338516	13.7277777	100	"sn"	"2018-07-31"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A159"	"NO"	""	""	"NSI"	"Grane"	"Geitklauvmyra"	""	"Picea forest"	65.6025608	13.2860636	200	"sn"	"2018-07-30"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A160"	"NO"	""	""	"TRI"	"Målselv"	"Bardufoss, Myrfjellet"	"Bjelmdalen"	"alpine ski track/meadow"	69.0843407	18.7288982	100	"sn"	"2018-07-13"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A161"	"NO"	""	""	"TRI"	"Målselv"	"Akka"	"Storakka"	"roadside/Alnus forest"	69.2105965	18.4836243	50	"pt"	"2018-07-12"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A162"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Stuorraoaivi"	"s. faced slope"	69.2642883	20.4396621	200	"sn"	"2019-07-07"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A163"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Buvsassjohka"	"canyon"	69.23847	20.619999	50	"sn"	"2019-07-07"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A164"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Lavkaskáidi"	"alpine meadow"	69.2322816	20.5621181	50	"sn"	"2019-07-07"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A165"	"NO"	""	""	"TRI"	"Målselv"	"Dividalen"	"Kleivbekken"	"Pinus forest/meadow"	68.7975569	19.6869401	100	"sn"	"2018-07-13"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A166"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Lulefjellet n.r."	"Pinus forest"	69.303384	20.452564	100	"sn"	"2019-07-04"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A167"	"NO"	""	""	"FV"	"Alta"	"Mattisdalen"	"Flintelva"	"stream"	69.8277026	22.8462072	100	"sn"	"2017-07-29"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A168"	"NO"	""	""	"TRI"	"Målselv"	"Akka"	"Storakka"	"roadside/Alnus forest"	69.2105965	18.4836243	100	"pt"	"2018-07-12"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A169"	"NO"	""	""	"TRI"	"Målselv"	"Bardufoss"	"Fosslia"	"sand pit"	69.0363418	18.6646116	100	"pt"	"2018-07-12"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A170"	"NO"	""	""	"TRI"	"Målselv"	"Dividalen"	"Kvennelva"	"Pinus forest"	68.7927777	19.6933333	100	"pt"	"2018-07-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A171"	"NO"	""	""	"NSY"	"Sømna"	"Teisdalen"	"Teisdalen n.r."	"Ulmus forest"	65.360615	12.388195	100	"sn"	"2018-08-03"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A172"	"NO"	""	""	"NSI"	"Grane"	"Holmvassdalen"	"Bjørntjønna S"	"Abies forest/cave"	65.32486667	13.31888889	10	"sn"	"2018-08-01"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A173"	"NO"	""	""	"TRI"	"Målselv"	"Devddes"	"Devddesjavri S"	"Betula forest/bog"	68.8648722	19.6741395	100	"sn"	"2018-07-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A174"	"NO"	""	""	"TRI"	"Målselv"	"Dividalen"	"Kleivbekken"	"bog"	68.7966571	19.6902968	25	"sn"	"2018-07-13"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A175"	"NO"	""	""	"FV"	"Alta"	"Mattisdalen"	"Flintelva"	"stream"	69.8279552	22.8467731	100	"sn"	"2017-07-29"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A176"	"NO"	""	""	"TRY"	"Tromsø"	"Tromsøya"	"Tromsø museum"	"in window/urban area"	69.634588	18.911625	NA	"hp"	"2019-04-28"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A177"	"NO"	""	""	"TRI"	"Målselv"	"Bardufoss"	"Myrfjellet"	"alpine resort"	69.078931	18.7241716	25	"sn"	"2018-07-11"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A178"	"NO"	""	""	"TRY"	"Tromsø"	"Tromsøya"	"Rismålshaugen"	"powerline route"	69.6896779	18.9552422	25	"sn"	"2018-07-08"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A179"	"NO"	""	""	"TRI"	"Målselv"	"Dividalen"	"Kvennelva"	"Pinus forest"	68.7929244	19.6996707	25	"pt"	"2018-07-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A180"	"NO"	""	""	"TRI"	"Målselv"	"Bardufoss"	"Storhaugen"	"sand pit"	69.0672297	18.6747189	100	"sn"	"2018-07-11"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A181"	"NO"	""	""	"NSI"	"Grane"	"Storfiplingdalen"	"Tømmerosen"	"sandy area"	65.303324	13.552533	25	"pt"	"2018-08-03"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A182"	"NO"	""	""	"TRI"	"Målselv"	"Devddes"	"Devddesjavri S"	"bog"	68.8648722	19.6741395	100	"sn"	"2018-07-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A183"	"NO"	""	""	"TRI"	"Målselv"	"Devddes"	""	"dry slope/meadow"	68.85719	19.61802	100	"sn"	"2018-07-14"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA
+"JPL_A184"	"NO"	""	""	"TRI"	"Storfjord"	"Skibotndalen"	"Lulefjellet n.r."	"Pinus forest"	69.30447968	20.44718559	50	"sn"	"2019-07-04"	""	"Ranjeni Sivasubramaniam"	""	""	""	""	NA	NA
+"JPL_A185"	"NO"	""	""	"NSI"	"Grane"	"Holmvassdalen"	"Bjørntjønna W"	"riparian Alnus forest"	65.3299388	13.3186751	50	"sn"	"2018-05-30"	""	"Jon Peder Lindemann"	""	""	""	""	NA	NA

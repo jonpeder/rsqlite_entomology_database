@@ -1,0 +1,164 @@
+---
+title: "connect_database"
+author: "Jon Peder Lindemann"
+date: "2/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Create new database
+source("functions/newDatabase.R")
+newDatabase("tmu_collection.db")
+```
+
+# Add a new dataset
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db") # Connect to database
+source("functions/addDataset.R")
+addDataset(tmu_db, datasetName = "Entomology collection, UiT Tromsø Museum", collectionCode = "TSZ", institutionCode = "TMU", rightsHolder = "Tromsø University Museum")
+dbDisconnect(tmu_db)
+```
+
+# Add a new project
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db") # Connect to database
+source("functions/addPrj.R")
+addPrj(tmu_db, projectTitle = "test project6", projectOwner = "Jon Peder Lindemann", projectStartDate = "2021-03-03")
+dbDisconnect(tmu_db)
+```
+
+# Add new collecting events
+```{r}
+
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db") # Connect to database
+colev <- read.table("data/Collecting_events", sep = "\t", header = TRUE, encoding = "UTF-8") # load data
+
+# Remove whitespaces at begining and ends of strings
+for (i in 1:ncol(colev)) {
+  colev[,i] <- trimws(colev[,i])
+}
+
+
+source("functions/addEvents.R") # load function
+
+# populate collecting events from table
+addEvents(tmu_db, 
+           eventID = colev$eventID,
+           country = colev$country,
+           stateProvince = colev$stateProvince,
+           county = colev$county,
+           strand_id = colev$strand_id,
+           municipality = colev$municipality, 
+           locality_1 = colev$locality_1, 
+           locality_2 = colev$locality_2, 
+           habitat = colev$habitat, 
+           decimalLatitude = colev$decimalLatitude, 
+           decimalLongitude = colev$decimalLongitude, 
+           coordinateUncertaintyInMeters = colev$coordinateUncertaintyInMeters, 
+           samplingProtocol = colev$samplingProtocol, 
+           eventDate_1 = colev$eventDate_1, 
+           eventDate_2 = colev$eventDate_2, 
+           recordedBy = colev$recordedBy
+          )
+dbDisconnect(tmu_db)
+
+# Populate from single event
+addEvents(tmu_db, 
+          eventID = "TMU-JKJ-COL-000509", 
+          county = "Finnmark",
+          strand_id = "FN",
+          municipality = "Tana", 
+          locality_1 = "Syltefjorddalen Nature Reserve",
+          #locality_2 = "Sukkeråsen ", 
+          decimalLatitude = "70.525556",
+          decimalLongitude = "29.970278", 
+          coordinateUncertaintyInMeters = "10", 
+          samplingProtocol = "mt",
+          eventDate_1 = "2017-07-27",
+          eventDate_2 = "2017-09-27", 
+          eventRemarks = "MT 8 (new SRN)",
+          recordedBy = "Jostein Kjærandsen | Jon Peder Limdemann"
+          )
+dbDisconnect(tmu_db)
+
+```
+
+# Add new or update occurrences or taxon names
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
+occ <- read.table("data/Occurrences.txt", sep = "\t", header = TRUE, encoding = "UTF-8")
+# Remove whitespaces at begining and ends of strings
+for (i in 1:ncol(occ)) {
+  occ[,i] <- trimws(occ[,i])
+}
+
+# populate Occurrences
+source("functions/addOccurrences.R")
+addOccurrences(tmu_db, 
+                occurrenceID = occ$uuid, 
+                eventID = occ$col_id, 
+                identifiedBy = occ$det,
+                scientificName = occ$name, 
+                family = occ$fam, 
+                order = occ$ord, 
+                taxonRank = occ$rank, 
+                sex = occ$sex, 
+                ownerInstitutionCode = "TMU")
+
+dbDisconnect(tmu_db)
+```
+
+# Populate occurrences with qr-label data
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
+source("functions/qrImport.R")
+qrImport(tmu_db, qr_data = test, identifiedBy = "Jon Peder Lindemann", projectTitle = "test project6")
+```
+
+# Write specimen labels
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
+source("functions/insectLabels.R")
+sysfonts::font_add_google("Quicksand", "quick")
+showtext::showtext_auto()
+sysfonts::font.families()
+
+all_events <- dbGetQuery(tmu_db, "SELECT eventID FROM Collecting_events WHERE municipality = 'Grimstad'")
+all_events[,1]
+
+new_labels = read.table("specimen_labels_18152021.txt", header = FALSE, sep = "\t")
+# Plot labels
+insectLabels(tmu_db, new_labels$V1, n = new_labels$V2, filename = "mycetophilidae_specimen_labels.pdf", type = "mycet", font_family = "quick")
+
+```
+
+# Write det. labels
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
+source("functions/detLabels.R")
+
+# Get all species, spnov species-group and genus names from the Taxa table
+all_species <- dbGetQuery(tmu_db, "SELECT scientificName FROM Taxa WHERE taxonRank = 'species' OR taxonRank = 'genus'")
+# Get all higher rank names from the Taxa table
+all_higher_ranks <- dbGetQuery(tmu_db, "SELECT scientificName FROM Taxa WHERE taxonRank != 'species' AND taxonRank != 'spnov' AND taxonRank != 'species-group' AND taxonRank != 'genus'")
+
+detLabels(tmu_db, scientificName = all_species[,1], filename = "species.pdf", owner_code = "TMU", higher_ranks = FALSE, add_taxa = FALSE)
+
+```
+
+export to simple darwin core xml file
+```{r}
+source("functions/simpleExport.R")
+test <- simpleExport(CONN = tmu_db, file_name = "test", rank = "species", new_records = FALSE, write_simple_dwc = TRUE, write_dwc_archive = TRUE, datasetName = "Pteromalidae Norway")
+```
+
+Add occurrences to a project
+```{r}
+source("functions/addToProject.R")
+addToProject(tmu_db, occurrenceID = test, projectTitle = "test project")
+```
+

@@ -1,0 +1,25 @@
+name	rank	order	family
+Ichneumonoidea	superfamily	Hymenoptera	
+Chalcidoidea	superfamily	Hymenoptera	
+Cynipoidea	superfamily	Hymenoptera	
+Tipuloidea	superfamily	Diptera	
+Orthoptera	order	Orthoptera	
+Odonata	order	Odonata	
+Coleoptera	order	Coleoptera	
+Symphyta	suborder	Hymenoptera	
+Stratiomyidae	family	Diptera	Stratiomyidae
+Tabanidae	family	Diptera	Tabanidae
+Micropezidae	family	Diptera	Micropezidae
+Asilidae	family	Diptera	Asilidae
+Rhagionidae	family	Diptera	Rhagionidae
+Therevidae	family	Diptera	Therevidae
+Mycetophilidae	family	Diptera	Mycetophilidae
+Tephritidae	family	Diptera	Tephritidae
+Pompilidae	family	Hymenoptera	Pompilidae
+Chrysididae	family	Hymenoptera	Chrysididae
+Crabronidae	family	Hymenoptera	Crabronidae
+Vespidae	family	Hymenoptera	Vespidae
+Formicidae	family	Hymenoptera	Formicidae
+Dryinidae	family	Hymenoptera	Dryinidae
+Mutillidae	family	Hymenoptera	Mutillidae
+Bombus	genus	Hymenoptera	Apidae

@@ -1,0 +1,1379 @@
+col_id	uuid	name	sex	det	fam	ord	rank
+JPL_A128	TSZ-JPL-d5fff070-e3a2-11e9-8e02-03ce3011d93e	Pyrgus andromedae (Wallengren, 1853)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A129	TSZ-JPL-d5fff068-e3a2-11e9-8e02-03ce3011d93e	Pyrgus andromedae (Wallengren, 1853)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A129	TSZ-JPL-d5ffc973-e3a2-11e9-8e02-03ce3011d93e	Pyrgus andromedae (Wallengren, 1853)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A129	TSZ-JPL-d5ffc972-e3a2-11e9-8e02-03ce3011d93e	Pyrgus andromedae (Wallengren, 1853)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A130	TSZ-JPL-d6003e51-e3a2-11e9-8e02-03ce3011d93e	Pyrgus andromedae (Wallengren, 1853)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A130	TSZ-JPL-d6003e4e-e3a2-11e9-8e02-03ce3011d93e	Pyrgus centaureae (Rambur, 1839)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d6001756-e3a2-11e9-8e02-03ce3011d93e	Pyrgus centaureae (Rambur, 1839)		Jon Peder Lindemann	Hesperiidae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d6001754-e3a2-11e9-8e02-03ce3011d93e	Colias hecla  Lefebvre, 1836		Jon Peder Lindemann	Pieridae	Lepidoptera	species
+JPL_A132	TSZ-JPL-d5ffc96d-e3a2-11e9-8e02-03ce3011d93e	Colias hecla  Lefebvre, 1837		Jon Peder Lindemann	Pieridae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff06b-e3a2-11e9-8e02-03ce3011d93e	Boloria thore (Hubner, 1804)		Jon Peder Lindemann	Nymphalidae	Lepidoptera	species
+JPL_A133	TSZ-JPL-d5ffc970-e3a2-11e9-8e02-03ce3011d93e	Boloria thore (Hubner, 1804)		Jon Peder Lindemann	Nymphalidae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff06c-e3a2-11e9-8e02-03ce3011d93e	Erebia pandrose (Borkhausen, 1788)		Jon Peder Lindemann	Nymphalidae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff06d-e3a2-11e9-8e02-03ce3011d93e	Erebia pandrose (Borkhausen, 1788)		Jon Peder Lindemann	Nymphalidae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d6001757-e3a2-11e9-8e02-03ce3011d93e	Erebia pandrose (Borkhausen, 1788)		Jon Peder Lindemann	Nymphalidae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d6001755-e3a2-11e9-8e02-03ce3011d93e	Erebia pandrose (Borkhausen, 1788)		Jon Peder Lindemann	Nymphalidae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff071-e3a2-11e9-8e02-03ce3011d93e	Pieris napi (Linnaeus, 1758)		Jon Peder Lindemann	Pieridae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff06a-e3a2-11e9-8e02-03ce3011d93e	Pieris napi (Linnaeus, 1758)		Jon Peder Lindemann	Pieridae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d6001753-e3a2-11e9-8e02-03ce3011d93e	Pieris napi (Linnaeus, 1758)		Jon Peder Lindemann	Pieridae	Lepidoptera	species
+JPL_A134	TSZ-JPL-d5ffc96c-e3a2-11e9-8e02-03ce3011d93e	Lycaena phlaeas (Linnaeus, 1760)		Jon Peder Lindemann	Lycaenidae	Lepidoptera	species
+JPL_A135	TSZ-JPL-d5ffc96e-e3a2-11e9-8e02-03ce3011d93e	Xanthorhoe annotinata (Zetterstedt, 1839)		Jon Peder Lindemann	Geometridae	Lepidoptera	species
+JPL_A136	TSZ-JPL-d5ffc96f-e3a2-11e9-8e02-03ce3011d93e	Anania funebris (Strom, 1768)		Jon Peder Lindemann	Crambidae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff06e-e3a2-11e9-8e02-03ce3011d93e	Ecliptopera silaceata (Denis & Schiffermuller, 1775)		Jon Peder Lindemann	Geometridae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff072-e3a2-11e9-8e02-03ce3011d93e	Macaria fusca (Thunberg, 1792)		Jon Peder Lindemann	Geometridae	Lepidoptera	species
+JPL_A128	TSZ-JPL-d5fff06f-e3a2-11e9-8e02-03ce3011d93e	Apantesis quenseli (Paykull, 1793)		Jon Peder Lindemann	Erebidae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d600175a-e3a2-11e9-8e02-03ce3011d93e	Bombus balteatus  Dahlbom, 1832		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A137	TSZ-JPL-d6003e54-e3a2-11e9-8e02-03ce3011d93e	Bombus monticola  Smith, 1849		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A129	TSZ-JPL-d5fff069-e3a2-11e9-8e02-03ce3011d93e	Agriades aquilo (Boisduval, 1832)		Jon Peder Lindemann	Lycaenidae	Lepidoptera	species
+JPL_A131	TSZ-JPL-d6001759-e3a2-11e9-8e02-03ce3011d93e	Bombus hyperboreus  Schonherr, 1809		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A130	TSZ-JPL-d6003e50-e3a2-11e9-8e02-03ce3011d93e	Bombus jonellus (Kirby, 1802)		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A131	TSZ-JPL-d6003e4c-e3a2-11e9-8e02-03ce3011d93e	Bombus lapponicus (Fabricius, 1793)		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A137	TSZ-JPL-d6003e52-e3a2-11e9-8e02-03ce3011d93e	Bombus lapponicus (Fabricius, 1793)		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A137	TSZ-JPL-d6003e55-e3a2-11e9-8e02-03ce3011d93e	Bombus lapponicus (Fabricius, 1793)		Jon Peder Lindemann	Apidae	Hymenoptera	species
+JPL_A131	TSZ-JPL-d6001758-e3a2-11e9-8e02-03ce3011d93e	Hypoderma tarandi (Linnaeus, 1758)		Jon Peder Lindemann	Hypodermatidae	Diptera	species
+JPL_A138	TSZ-JPL-468d64d0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64cc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64cb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64cd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d3dcf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64c9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64cf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64c7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64c8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64ce-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64ca-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d3dd4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d3dd0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d3dd1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d3dd2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d3dd3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d64c6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d16f1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d16f6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d3dcb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d3dca-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d16f3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d3dcd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d16f4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d16f2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A139	TSZ-JPL-468d3dcc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca210-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefed-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefee-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc907-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc901-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc906-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefeb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca20d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc8ff-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc908-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc903-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca213-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc904-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefea-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca20e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca212-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca20f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468ca211-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefe6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc902-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefe9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc905-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cc900-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefe7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A140	TSZ-JPL-468cefec-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7578-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2b4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e756f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e2799-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9a6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2b5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2b6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9af-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e756e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e92-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e93-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2be-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9ae-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e9c79-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9ac-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e2798-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7575-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e99-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e9c74-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e279a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00aa-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e94-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9a7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e279b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e95-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2b8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9a8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7571-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00ac-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e279c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7577-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7572-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2b9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e2797-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9a9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e9c78-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e2795-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9ab-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e98-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2bb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7574-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e279e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A142	TSZ-JPL-468d8c03-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A142	TSZ-JPL-468d8c02-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A142	TSZ-JPL-468d8c01-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A138	TSZ-JPL-468d8bff-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A143	TSZ-JPL-d604813a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6045a67-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604813b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048138-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6045a65-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048137-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048139-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048136-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048135-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a826-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048134-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d60543ec-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf69-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6045a66-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048133-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a824-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a825-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604813c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6048132-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051d00-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf68-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f608-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f609-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a82c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051cfc-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f60a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a827-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A141	TSZ-JPL-468e4e90-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e2796-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2bc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e9c77-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7570-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9b0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2b7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e9c75-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e9a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e2794-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2ba-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468db2bd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e7573-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e91-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00a4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9ad-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e279d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e97-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e00ab-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e9c76-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468dd9aa-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A141	TSZ-JPL-468e4e96-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A144	TSZ-JPL-d6008c35-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c33-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c39-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b325-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b327-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b328-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6006546-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6006545-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6006544-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6006548-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c31-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c30-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c37-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A145	TSZ-JPL-d6059207-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A145	TSZ-JPL-d6059209-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A145	TSZ-JPL-d605920a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A145	TSZ-JPL-d6059204-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A145	TSZ-JPL-d6059205-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A146	TSZ-JPL-d60543f4-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A146	TSZ-JPL-d60543f3-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A146	TSZ-JPL-d6056adf-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A146	TSZ-JPL-d60543f5-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A146	TSZ-JPL-d6056ade-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A146	TSZ-JPL-d60543f6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A147	TSZ-JPL-d6056ae4-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A147	TSZ-JPL-d6056ae6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A147	TSZ-JPL-d6056ae7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A147	TSZ-JPL-d6056ae5-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f610-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f612-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf67-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051cfb-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051d02-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf6a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051d03-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f60b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf70-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf6b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051d01-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f60c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a829-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d6051cfa-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604cf6c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604f611-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A143	TSZ-JPL-d604a82a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A148	TSZ-JPL-059c8a9d-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26c5-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26c6-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A149	TSZ-JPL-d600653f-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A149	TSZ-JPL-d6006540-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A149	TSZ-JPL-d6006541-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A149	TSZ-JPL-d600653e-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b322-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d6010110-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c32-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c36-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6006547-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c38-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b324-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b323-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da27-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da25-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d6010112-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d6010111-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d6008c3a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A147	TSZ-JPL-d6056ae8-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b32a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A144	TSZ-JPL-d600b326-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da28-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da23-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da24-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da22-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A150	TSZ-JPL-d600da21-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A148	TSZ-JPL-059f97e2-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26bc-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059dc344-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26be-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97da-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059dc342-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26c0-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb92-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0346b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059e5f5d-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059c8aa0-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97e3-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0346e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97de-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0d046-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb96-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059c8aa4-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059c8a9b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a03474-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26c1-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26c2-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26bd-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97e1-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97dc-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0346f-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0d047-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059e5f61-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059e5f5b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059dc349-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a03472-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0346a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059dc345-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059e5f63-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059c8aa1-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb93-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb94-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb97-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0346c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97dd-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059f97db-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059dc343-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb95-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a03473-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb98-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059d26c3-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb91-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-059efb9a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A148	TSZ-JPL-05a0d048-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A145	TSZ-JPL-d6059208-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A151	TSZ-JPL-469af030-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A151	TSZ-JPL-469af02f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699df70-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a0662-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d53-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a5459-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d52-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a7b3a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a545a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-46999171-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699b870-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699b872-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a0665-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699df71-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d57-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a065e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698336e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7cf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859c0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-46983371-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469880bc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-46980bfd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7cc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859c3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698ceaa-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bdf2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46979771-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697977a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46980bf7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-46977009-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-46974929-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-4698f5ba-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-46991c8c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d51-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d58-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-469943d6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-46991c91-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-469943d8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-46991c92-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-46991c90-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c86-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ecc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea86-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693eff2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952835-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2df-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941716-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46961163-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694d9b2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c90b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943de0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c381-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464dc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500af-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c5b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c378-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693a20b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f4b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c5e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c5d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46968646-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea82-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941719-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f4c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c90a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46961160-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c8b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696d434-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694d9b5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c90e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954eca-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f51-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500b3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea81-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952838-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696864f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2e2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943ddf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ed2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c908-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638e7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469575a6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad41-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad3c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c37b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943de3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500ae-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c380-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c90f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943ddc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea7f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46968649-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ed3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469575a2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c37a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2db-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952832-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638ee-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694d9ae-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c37e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c56-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469575a7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941718-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46961162-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad40-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696115d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500b4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638e5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952834-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696115e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2dc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638ea-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c37f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638e4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694d9b4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46968647-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f4d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693efee-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693eff4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464de-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693a20d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943dde-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46961161-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952839-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea80-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695283b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693a20e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464d9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c59-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea85-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693a211-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500ad-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638e8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c90d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464da-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693eff6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469575a5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea84-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941714-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469880bf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469880c0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-46991c8b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-4698f5b9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-4698f5b8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-4698f5b6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-4698f5b7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-469943d7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-469943d9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A157	TSZ-JPL-46991c8f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699b876-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d55-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-46996a80-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f1159-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-46974930-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-46974928-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-46977007-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-46977006-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-4697492a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A156	TSZ-JPL-46991c8a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-059a6442-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b34-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a163e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059ab230-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b3b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a1643-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bfa-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb28b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229dd-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A161	TSZ-JPL-469b170f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464d8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c37d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500b1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941712-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2e1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c909-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693eff1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2de-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ecf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c8c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696d437-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695759e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ecb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469575a3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46968648-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ece-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c5a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c8d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941715-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c58-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500ac-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c88-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A162	TSZ-JPL-d601c3e7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d602122d-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eaed-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e0-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601011a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f0e-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d602122c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e8-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f3-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d35-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eaec-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f0d-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6010119-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3df-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6012813-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6021228-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d3a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f12-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f8-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e4-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6010115-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eae8-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d602122f-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e2-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6021226-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f10-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d38-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6012816-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601280d-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eae6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d602122a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d33-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f0b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6012811-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eaea-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468eea61-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A162	TSZ-JPL-d6010117-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f1-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468eea58-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f862d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A163	TSZ-JPL-d602d490-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286bb-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb5-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286b9-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286b9-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602390e-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb8-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d36-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eae4-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6012814-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f0f-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601280c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f4-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6021229-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6012810-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f0a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eae9-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d34-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6012812-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f0c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f2-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601280e-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eae7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d39-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d3b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d602122b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f08-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d60175f0-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6010116-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6021230-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6010118-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e5-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3e3-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6021227-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601eaeb-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d601c3de-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6019d32-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A162	TSZ-JPL-d6014f11-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb92-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d49a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d495-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d496-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb91-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb8d-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d493-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d497-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb8c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb93-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d499-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d494-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb8e-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb8f-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d492-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb0-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adbf-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb9-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286b7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb2-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb4-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286bd-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602390c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286bc-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adc3-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286ba-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb3-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adbd-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286be-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6023909-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286b6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286bf-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adc0-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602390a-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adc6-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adbc-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fb7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d6025fba-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286c0-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d602adc5-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A164	TSZ-JPL-d60286b8-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A165	TSZ-JPL-469048fc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46906ff4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d603706f-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d6037073-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468ec36d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468eea62-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f383f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f8630-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f8633-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec369-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec367-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d60349c7-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468f5f38-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f862a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f115e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f3844-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f8634-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec36e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f1158-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f383e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468eea5e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f1155-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f862b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f3841-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468fad1d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f115b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec368-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f731b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468eea60-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f731a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f115a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f862c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A162	TSZ-JPL-d6019d3c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d602fb95-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d6039779-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d603e55d-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d6039774-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d60349c9-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A166	TSZ-JPL-d603be64-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602fb90-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A163	TSZ-JPL-d602d498-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A167	TSZ-JPL-4693063f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d30-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46937b1f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693063c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46935422-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d32-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46930639-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693541f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46930640-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d31-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46935424-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46937b18-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d2c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46937b19-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46929160-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b879-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46924375-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b872-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce91-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce93-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46929159-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a6f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a66-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691f58b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46924377-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce8a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a68-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b87b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692437a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-469048fa-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46906fec-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46902212-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468fad23-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-469048ff-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468fd41e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468fd422-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468ffb17-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46902219-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A160	TSZ-JPL-0586ee29-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0589505b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229d8-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229dc-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05895056-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05895059-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0586ee27-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229d9-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb28d-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058e14ba-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A152	TSZ-JPL-469a7b36-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a7b39-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a2d56-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a7b34-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A169	TSZ-JPL-469bb2db-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A169	TSZ-JPL-469bb2d9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693541e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46930641-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d2a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690e506-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469132b6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469159c9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690e501-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469132b0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bc6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469159c8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469132af-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bc0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469132b7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469132b8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-469132b1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bbe-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bc2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690bde2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bc5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690e4fc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d2e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46937b1b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693063a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46935423-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46937b1c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A171	TSZ-JPL-059b74ed-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b74eb-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b2726-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2db-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e08-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b9c33-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b9c34-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bee35-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b2725-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2df-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2dc-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b9c2a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b9c32-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b9c2b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bee39-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bee3b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bee36-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059be9c8-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2de-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b9c2f-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b2728-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e01-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2d9-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059b74f2-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bee34-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A152	TSZ-JPL-469a2d50-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A171	TSZ-JPL-059b4e06-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b74e8-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb292-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229de-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058e14bf-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0589505e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058e14be-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0586ee28-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bf8-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0586ee2b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0589505c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229da-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bf9-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb28f-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05895057-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A152	TSZ-JPL-469a0666-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699df74-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699b873-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699916e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699b871-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A160	TSZ-JPL-05895058-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b74f0-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058e14bd-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb28e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bfb-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b74ea-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e07-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b0024-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e00-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e0a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6447-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a3d42-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-0599ffd2-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6444-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a1642-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a3d3c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059ab234-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6441-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6448-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a3d44-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6440-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a3d3f-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059ab236-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059ab231-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a3d43-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6446-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a3d41-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a1645-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b35-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-0599ffd8-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6443-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-05979da0-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a1641-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b33-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a1648-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b0026-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A166	TSZ-JPL-d6040c6b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A165	TSZ-JPL-46904902-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f862e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f5f39-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec36f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468ffb18-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec36c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468fad24-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f7320-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f383c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468eea59-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d60349c2-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468fad1e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-469048f8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-4690221a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46902210-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A173	TSZ-JPL-469096df-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d6040c6c-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468ec36a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d603be6e-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468eea5b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f8632-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d6032282-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A159	TSZ-JPL-468f3840-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d60349c0-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A165	TSZ-JPL-468fd41b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b873-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce92-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468fd418-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-468fd421-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692437b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692915b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-469048fd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46906feb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692dfb7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a69-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692915c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b875-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f731e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce8f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b877-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691f586-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce8e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b874-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a67-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46921cc1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a6d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46921cc4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691f587-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692dfb5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A173	TSZ-JPL-469096e0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692915a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce90-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A173	TSZ-JPL-4690bdd9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A173	TSZ-JPL-469096dc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A173	TSZ-JPL-469096e5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A173	TSZ-JPL-4690bdde-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692dfb4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A166	TSZ-JPL-d603be6b-e3a2-11e9-8e02-03ce3011d93e	empty					other
+JPL_A170	TSZ-JPL-4690e505-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690e504-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690e4ff-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bc4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693063d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690bde1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468ec366-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f1156-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f3846-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f3842-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A165	TSZ-JPL-46902217-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468eea5f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f731f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-4690e503-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bbd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bbc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A170	TSZ-JPL-46910bbf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46935420-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d2d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-46932d2b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693541d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-469180ce-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a6e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce94-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691f58a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692dfb6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692437d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce8b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692915f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46921cc2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce8c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692dfb9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b876-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46924378-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691f588-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691ce8d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b87a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46924374-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46921cbe-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692b878-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f115c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f1157-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A159	TSZ-JPL-468f731c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46921cc0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691a7c3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692915d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-469180ca-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a6b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46924376-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692437c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46926a6c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-46921cc3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-469180cb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692915e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-469180cc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4691f589-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A168	TSZ-JPL-4692dfbb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad3d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693eff5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696115c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638e9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A161	TSZ-JPL-469b170e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A161	TSZ-JPL-469b170b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A174	TSZ-JPL-469ac922-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a0661-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a545b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699916a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A172	TSZ-JPL-059bc2da-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2d7-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059be9c9-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bc2e0-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A172	TSZ-JPL-059bee32-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-46968650-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952837-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500ab-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f4a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638ed-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46941713-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46952833-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46948c57-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695ea83-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500b2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ed0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696115f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696864d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469500aa-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c89-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469575a4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c8e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A167	TSZ-JPL-4693063e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46954ed1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694b2e3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696864c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad3f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694d9af-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695283a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693a20c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A175	TSZ-JPL-05979d9c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d93e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d9d-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d96-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d942-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d944-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d97-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d9a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d943-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d98-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05907743-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d93c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d93d-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d941-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d9b-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05907744-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05953b6e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d940-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229d7-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0586ee2a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bf7-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bf5-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0586ee2e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0586ee25-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-0589505a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229d5-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb28a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bf6-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-05848bf3-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058e14bb-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229d4-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058229db-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A160	TSZ-JPL-058bb290-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05953b75-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-46943ddd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694171a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464df-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943de2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46959c8a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4694d9b1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-46980bfe-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7c9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698cea9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859bf-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859c1-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698336b-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859be-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698cea7-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699df6d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697700d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bdee-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A171	TSZ-JPL-059b272c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b2724-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b0023-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e03-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e09-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b74ef-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b2722-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b272a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b4e02-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A171	TSZ-JPL-059b2729-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-0599ffd4-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b3a-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059ab233-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a6445-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b3c-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059ab232-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b39-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a1647-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-0599ffd5-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b38-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A158	TSZ-JPL-059a8b36-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d9e-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05953b76-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d946-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05953b78-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-0592d945-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05979d99-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A175	TSZ-JPL-05953b6f-e86a-11e9-bd83-837d04907aca	empty					other
+JPL_A154	TSZ-JPL-46979773-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bdeb-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697e4f9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bdea-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46979778-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46980bf9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697e4f2-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697e4f5-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bdef-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bded-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46979770-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697e4f4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46979775-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697700e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697700c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46979777-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697e4f6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46980bf8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46980bf6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697bdec-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-4697e4f3-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A154	TSZ-JPL-46979774-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693efef-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469638e6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4695c37c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad3e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696ad39-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f53-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4693c907-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46943de4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-46965f4e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-469464db-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A158	TSZ-JPL-4696864e-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-4697492f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-4697492c-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698cea8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698336f-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469880ba-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859bc-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-46983372-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-469a0660-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A152	TSZ-JPL-4699b877-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7d0-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469880bd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698336d-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859bd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7c8-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698336a-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469880b9-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7cd-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698a7ca-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-469859c4-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A153	TSZ-JPL-4698cea6-e2ec-11e9-8a77-774a912b890a	empty					other
+JPL_A155	TSZ-JPL-4697492d-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A155	TSZ-JPL-4697492e-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-059ad91f-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-059ad920-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-059ad917-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A175	TSZ-JPL-05953b71-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A175	TSZ-JPL-05907745-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A175	TSZ-JPL-05953b77-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A175	TSZ-JPL-05953b73-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A175	TSZ-JPL-05953b72-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A160	TSZ-JPL-05848bfc-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A160	TSZ-JPL-058e14c1-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A172	TSZ-JPL-059bee38-e86a-11e9-bd83-837d04907aca	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A168	TSZ-JPL-46929161-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A168	TSZ-JPL-46926a6a-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A170	TSZ-JPL-469132ae-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A170	TSZ-JPL-46910bc1-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-469096e3-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-469096e4-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-4690bdda-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A165	TSZ-JPL-468ffb1a-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A165	TSZ-JPL-46902218-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A167	TSZ-JPL-46935421-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A159	TSZ-JPL-468fad1c-e2ec-11e9-8a77-774a912b890a	Empidoidea		Jon Peder Lindemann		Diptera	superfamily
+JPL_A173	TSZ-JPL-059ab238-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059b001e-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059ad91a-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059b001f-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059b0020-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A152	TSZ-JPL-469a0663-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A171	TSZ-JPL-059b272b-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059b001c-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059ad91c-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059ad91e-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A160	TSZ-JPL-05895060-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A158	TSZ-JPL-4693eff0-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A158	TSZ-JPL-4694b2da-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A158	TSZ-JPL-4694b2dd-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059ad916-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A173	TSZ-JPL-059ad91d-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A159	TSZ-JPL-468f3845-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A165	TSZ-JPL-468ffb19-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A165	TSZ-JPL-468fd41f-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A165	TSZ-JPL-468fad25-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A152	TSZ-JPL-469a5456-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A172	TSZ-JPL-059bee33-e86a-11e9-bd83-837d04907aca	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A158	TSZ-JPL-4694d9b0-e2ec-11e9-8a77-774a912b890a	Tipulidae		Jon Peder Lindemann	Tipulidae	Diptera	family
+JPL_A161	TSZ-JPL-469b1710-e2ec-11e9-8a77-774a912b890a	Coleoptera		Jon Peder Lindemann		Coleoptera	order
+JPL_A176	TSZ-JPL-469943dc-e2ec-11e9-8a77-774a912b890a	empty		Jon Peder Lindemann			other
+JPL_A161	TSZ-JPL-469b3e0f-e2ec-11e9-8a77-774a912b890a	Coleoptera		Jon Peder Lindemann		Coleoptera	order
+JPL_A161	TSZ-JPL-469b3e0d-e2ec-11e9-8a77-774a912b890a	Coleoptera		Jon Peder Lindemann		Coleoptera	order
+JPL_A169	TSZ-JPL-469b8bdd-e2ec-11e9-8a77-774a912b890a	Coleoptera		Jon Peder Lindemann		Coleoptera	order
+JPL_A177	TSZ-JPL-469af02a-e2ec-11e9-8a77-774a912b890a	Coleoptera		Jon Peder Lindemann		Coleoptera	order
+JPL_A177	TSZ-JPL-469af029-e2ec-11e9-8a77-774a912b890a	Coleoptera		Jon Peder Lindemann		Coleoptera	order
+JPL_A152	TSZ-JPL-469a545c-e2ec-11e9-8a77-774a912b890a	Tetrix bipunctata (Linnaeus, 1758)		Jon Peder Lindemann	Tetrigidae	Orthoptera	species
+JPL_A152	TSZ-JPL-4699df72-e2ec-11e9-8a77-774a912b890a	Tetrix bipunctata (Linnaeus, 1758)		Jon Peder Lindemann	Tetrigidae	Orthoptera	species
+JPL_A161	TSZ-JPL-469b3e0e-e2ec-11e9-8a77-774a912b890a	Empididae		Jon Peder Lindemann	Empididae	Diptera	family
+JPL_A178	TSZ-JPL-469af02e-e2ec-11e9-8a77-774a912b890a	Orthoptera		Jon Peder Lindemann		Orthoptera	order
+JPL_A173	TSZ-JPL-469096dd-e2ec-11e9-8a77-774a912b890a	Simuliidae		Jon Peder Lindemann	Simuliidae	Diptera	family
+JPL_A179	TSZ-JPL-469b1707-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A179	TSZ-JPL-469b1708-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469c00d8-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bd9fd-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bb2e0-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bd9fe-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469c00d1-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469c00d3-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469c00d2-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469c00d6-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bd9ff-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b8be0-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b64eb-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b64ec-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b3e15-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b3e13-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b8be1-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bb2d8-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bb2dc-e2ec-11e9-8a77-774a912b890a	Pompilidae		Jon Peder Lindemann	Pompilidae	Hymenoptera	family
+JPL_A152	TSZ-JPL-469a0664-e2ec-11e9-8a77-774a912b890a	Vespidae		Jon Peder Lindemann	Vespidae	Hymenoptera	family
+JPL_A180	TSZ-JPL-469ac91a-e2ec-11e9-8a77-774a912b890a	Crabronidae		Jon Peder Lindemann	Crabronidae	Hymenoptera	family
+JPL_A179	TSZ-JPL-469b1709-e2ec-11e9-8a77-774a912b890a	Crabronidae		Jon Peder Lindemann	Crabronidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469b8bdc-e2ec-11e9-8a77-774a912b890a	Crabronidae		Jon Peder Lindemann	Crabronidae	Hymenoptera	family
+JPL_A179	TSZ-JPL-469b170a-e2ec-11e9-8a77-774a912b890a	Crabronidae		Jon Peder Lindemann	Crabronidae	Hymenoptera	family
+JPL_A174	TSZ-JPL-469ac91e-e2ec-11e9-8a77-774a912b890a	Formicidae		Jon Peder Lindemann	Formicidae	Hymenoptera	family
+JPL_A181	TSZ-JPL-469af02d-e2ec-11e9-8a77-774a912b890a	Crabronidae		Jon Peder Lindemann	Crabronidae	Hymenoptera	family
+JPL_A169	TSZ-JPL-469bb2e1-e2ec-11e9-8a77-774a912b890a	Andrena		Jon Peder Lindemann	Andrenidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469bd9fc-e2ec-11e9-8a77-774a912b890a	Andrena		Jon Peder Lindemann	Andrenidae	Hymenoptera	genus
+JPL_A180	TSZ-JPL-469aa238-e2ec-11e9-8a77-774a912b890a	Nomada		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469c00d5-e2ec-11e9-8a77-774a912b890a	Nomada		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469b3e11-e2ec-11e9-8a77-774a912b890a	Andrena		Jon Peder Lindemann	Andrenidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469b3e12-e2ec-11e9-8a77-774a912b890a	Andrena		Jon Peder Lindemann	Andrenidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469b3e10-e2ec-11e9-8a77-774a912b890a	Andrena		Jon Peder Lindemann	Andrenidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469b64ea-e2ec-11e9-8a77-774a912b890a	Andrena clarkella  (Kirby, 1802)		Jon Peder Lindemann	Andrenidae	Hymenoptera	species
+JPL_A169	TSZ-JPL-469b64ed-e2ec-11e9-8a77-774a912b890a	Andrena lapponica  Zetterstedt, 1838		Jon Peder Lindemann	Andrenidae	Hymenoptera	species
+JPL_A180	TSZ-JPL-469aa230-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A180	TSZ-JPL-469a7b3d-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A180	TSZ-JPL-469aa233-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A152	TSZ-JPL-469a5457-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A182	TSZ-JPL-469af032-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A151	TSZ-JPL-469af031-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469c00d0-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A183	TSZ-JPL-469b1706-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A169	TSZ-JPL-469c00d7-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A174	TSZ-JPL-469ac91f-e2ec-11e9-8a77-774a912b890a	Bombus		Jon Peder Lindemann	Apidae	Hymenoptera	genus
+JPL_A166	TSZ-JPL-d6040c6f-e3a2-11e9-8e02-03ce3011d93e	Allodiopsis rustica (Edwards, 1941)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603e558-e3a2-11e9-8e02-03ce3011d93e	Exechia confinis Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603706d-e3a2-11e9-8e02-03ce3011d93e	Mycetophila ruficollis Meigen, 1818	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603be6c-e3a2-11e9-8e02-03ce3011d93e	Exechia fusca (Meigen, 1804)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603977c-e3a2-11e9-8e02-03ce3011d93e	Exechiopsis pseudindecisa (Lastovka & Matile, 1974)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6039773-e3a2-11e9-8e02-03ce3011d93e	Exechia frigida (Boheman, 1865)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6037075-e3a2-11e9-8e02-03ce3011d93e	Notolopha brachycera (Zetterstedt, 1852)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603e559-e3a2-11e9-8e02-03ce3011d93e	Bolitophila	female	Jostein Kjærandsen	Boletophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d6032283-e3a2-11e9-8e02-03ce3011d93e	Boletina	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d603e55e-e3a2-11e9-8e02-03ce3011d93e	Synplasta <pseudorufilatera>JKJ-spB	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A166	TSZ-JPL-d60349c5-e3a2-11e9-8e02-03ce3011d93e	Synplasta praeformida (Dziedzicki, 1910)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6032281-e3a2-11e9-8e02-03ce3011d93e	Boletina	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d6039775-e3a2-11e9-8e02-03ce3011d93e	Sciaridae	male	Jostein Kjærandsen	Sciaridae	Diptera	family
+JPL_A166	TSZ-JPL-d6037074-e3a2-11e9-8e02-03ce3011d93e	Allodiopsis	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d603be67-e3a2-11e9-8e02-03ce3011d93e	Boletina	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d603e557-e3a2-11e9-8e02-03ce3011d93e	Mycetophila ruficollis Meigen, 1818	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d60349ca-e3a2-11e9-8e02-03ce3011d93e	Notolopha cristata (Staeger, 1840)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603e556-e3a2-11e9-8e02-03ce3011d93e	Mycetophila marginata Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603227f-e3a2-11e9-8e02-03ce3011d93e	Brachycampta neglecta	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A184	TSZ-JPL-d604333b-e3a2-11e9-8e02-03ce3011d93e	Leia subfasciata (Meigen, 1818)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A184	TSZ-JPL-d604333d-e3a2-11e9-8e02-03ce3011d93e	Boletina sciarina Staeger, 1840	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A184	TSZ-JPL-d6045a5f-e3a2-11e9-8e02-03ce3011d93e	Exechia fusca (Meigen, 1804)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603e55b-e3a2-11e9-8e02-03ce3011d93e	Exechia contaminata Winnertz, 1863	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6032280-e3a2-11e9-8e02-03ce3011d93e	Notolopha cristata (Staeger, 1840)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A184	TSZ-JPL-d6045a5e-e3a2-11e9-8e02-03ce3011d93e	Boletina borealis Zetterstedt, 1852	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6032286-e3a2-11e9-8e02-03ce3011d93e	Allodiopsis rustica (Edwards, 1941)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A184	TSZ-JPL-d6045a61-e3a2-11e9-8e02-03ce3011d93e	Mycetophila ruficollis group	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A166	TSZ-JPL-d6037076-e3a2-11e9-8e02-03ce3011d93e	Mycetophila ruficollis group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A184	TSZ-JPL-d6045a60-e3a2-11e9-8e02-03ce3011d93e	Boletina	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d603e55c-e3a2-11e9-8e02-03ce3011d93e	Bolitophila	female	Jostein Kjærandsen	Bolitophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d6032284-e3a2-11e9-8e02-03ce3011d93e	Exechia <karstroemi>JKJ-spE	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A184	TSZ-JPL-d6045a62-e3a2-11e9-8e02-03ce3011d93e	Exechia fusca (Meigen, 1804)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6039772-e3a2-11e9-8e02-03ce3011d93e	Allodia		Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A184	TSZ-JPL-d6045a63-e3a2-11e9-8e02-03ce3011d93e	Exechia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A184	TSZ-JPL-d604333e-e3a2-11e9-8e02-03ce3011d93e	Boletina basalis (Meigen, 1818)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6032288-e3a2-11e9-8e02-03ce3011d93e	Allodia polevoii	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6032287-e3a2-11e9-8e02-03ce3011d93e	Allodia truncata Edwards, 1921	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d60349c1-e3a2-11e9-8e02-03ce3011d93e	Bolitophila	female	Jostein Kjærandsen	Bolitophilidae	Diptera	genus
+JPL_A166	TSZ-JPL-d603be6d-e3a2-11e9-8e02-03ce3011d93e	Exechia confinis Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6037071-e3a2-11e9-8e02-03ce3011d93e	Mycetophila ruficollis group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A166	TSZ-JPL-d603706e-e3a2-11e9-8e02-03ce3011d93e	Bolitophila austriaca (Mayer, 1950)	male	Jostein Kjærandsen	Bolitophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6040c66-e3a2-11e9-8e02-03ce3011d93e	Mycetophila ruficollis group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A166	TSZ-JPL-d6040c6e-e3a2-11e9-8e02-03ce3011d93e	Mycetophila marginata Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603e560-e3a2-11e9-8e02-03ce3011d93e	Allodia	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A165	TSZ-JPL-468ffb1e-e2ec-11e9-8a77-774a912b890a	Sciaridae	female	Jostein Kjærandsen	Sciaridae	Diptera	family
+JPL_A166	TSZ-JPL-d6040c69-e3a2-11e9-8e02-03ce3011d93e	Allodiopsis rustica (Edwards, 1941)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6039776-e3a2-11e9-8e02-03ce3011d93e	Mycetophila vittipes group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A166	TSZ-JPL-d603227e-e3a2-11e9-8e02-03ce3011d93e	Notolopha cristata (Staeger, 1840)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d6037072-e3a2-11e9-8e02-03ce3011d93e	Exechia contaminata Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603be6a-e3a2-11e9-8e02-03ce3011d93e	Notolopha cristata (Staeger, 1840)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d603977a-e3a2-11e9-8e02-03ce3011d93e	Exechia contaminata Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A166	TSZ-JPL-d602fb96-e3a2-11e9-8e02-03ce3011d93e	Exechia contaminata Winnertz, 1863	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A184	TSZ-JPL-d604333c-e3a2-11e9-8e02-03ce3011d93e	Sciaridae	male	Jostein Kjærandsen	Sciaridae	Diptera	family
+JPL_A185	TSZ-JPL-058e14c3-e86a-11e9-bd83-837d04907aca	Allodia	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A172	TSZ-JPL-059bee3a-e86a-11e9-bd83-837d04907aca	Mycetophila ruficollis group	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A172	TSZ-JPL-059b9c2d-e86a-11e9-bd83-837d04907aca	Mycetophila biusta Wiedemann, 1818	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A160	TSZ-JPL-05848bf2-e86a-11e9-bd83-837d04907aca	Leia subfasciata (Meigen, 1818)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A172	TSZ-JPL-059bc2dd-e86a-11e9-bd83-837d04907aca	Phronia caliginosa Dziedzicki, 1889	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A172	TSZ-JPL-059b74f1-e86a-11e9-bd83-837d04907aca	Mycetophila marginata Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A172	TSZ-JPL-059b9c30-e86a-11e9-bd83-837d04907aca	Mycetophila ruficollis group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A172	TSZ-JPL-059bc2d6-e86a-11e9-bd83-837d04907aca	Mycomya shermani Garrett, 1924	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A152	TSZ-JPL-4699df6e-e2ec-11e9-8a77-774a912b890a	Coelosia tenella (Zetterstedt, 1852)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A152	TSZ-JPL-469a7b35-e2ec-11e9-8a77-774a912b890a	Mycomya	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A152	TSZ-JPL-4699df73-e2ec-11e9-8a77-774a912b890a	Dynatosoma reciprocum (Walker, 1848)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A160	TSZ-JPL-0586ee2d-e86a-11e9-bd83-837d04907aca	Boletina <paragripha>JKJ-spA	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A160	TSZ-JPL-058bb289-e86a-11e9-bd83-837d04907aca	Diadocidia ferruginosa (Meigen, 1830)	male	Jostein Kjærandsen	Diadocidiidae	Diptera	species
+JPL_A160	TSZ-JPL-0589505d-e86a-11e9-bd83-837d04907aca	Sciaridae	male	Jostein Kjærandsen	Sciaridae	Diptera	family
+JPL_A160	TSZ-JPL-058bb288-e86a-11e9-bd83-837d04907aca	Sciaridae	male	Jostein Kjærandsen	Sciaridae	Diptera	family
+JPL_A160	TSZ-JPL-05848bf4-e86a-11e9-bd83-837d04907aca	Tipulidae	male	Jostein Kjærandsen	Tipulidae	Diptera	family
+JPL_A158	TSZ-JPL-059a3d3b-e86a-11e9-bd83-837d04907aca	Mycetophila ruficollis group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A158	TSZ-JPL-059a3d40-e86a-11e9-bd83-837d04907aca	Leia winthemii Lehmann, 1822	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A173	TSZ-JPL-059b0021-e86a-11e9-bd83-837d04907aca	Chironomidae	female	Jostein Kjærandsen	Chironomidae	Diptera	family
+JPL_A153	TSZ-JPL-4698336c-e2ec-11e9-8a77-774a912b890a	Sciaridae	male	Jostein Kjærandsen	Sciaridae	Diptera	family
+JPL_A153	TSZ-JPL-4698a7cb-e2ec-11e9-8a77-774a912b890a	Brevicornu fuscipenne (Staeger, 1840)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A153	TSZ-JPL-4698ceab-e2ec-11e9-8a77-774a912b890a	Coelosia truncata Lundstrom, 1909	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A152	TSZ-JPL-4699b875-e2ec-11e9-8a77-774a912b890a	Acnemia nitidicollis (Meigen, 1818)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A152	TSZ-JPL-469a7b37-e2ec-11e9-8a77-774a912b890a	Dynatosoma thoracicum (Zetterstedt, 1838)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_1d5229a7-1f0a-418d-aa40-b08a54d62d66	Boletina nigricans Dziedzicki, 1885	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_0ff0b718-1a10-4cca-aa90-d81c83d700dc	Mycomya trivittata (Zetterstedt, 1838)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_4a220c36-9942-497f-b61a-91528df4eeec	Mycomya	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_e13df05f-637a-4c7b-9d8b-f15190be4d51	Boletina onegensis Polevoi, 1995	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_fc5ea6be-0f96-4dbf-a5af-ac1ee267b57d	Boletina nigricans Dziedzicki, 1885	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_4c15d82d-5cf1-4f16-9dbd-357f4e4e95c8	Exechia	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_020a7a1c-c5b7-4ee0-9321-7f196a9bdd84	Exechia separata Lundstrom, 1912	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_a4cfc8f1-07cd-494b-b473-7faaf1c7ddc8	Boletina <paragripha>JKJ-spA	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A124	JPL_A124_a847b74d-6ce5-4411-9d81-dee5be84c0b3	Boletina nigricans Dziedzicki, 1885	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_421ccede-d20a-4845-8762-cc37b141fcb3	Exechia	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_978f3c1c-93b6-4c63-a11a-754fa0f09715	Boletina <paragripha>JKJ-spA	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A124	JPL_A124_71b88926-3ae5-4fd7-844e-734b3775a5d0	Mycomya shermani Garrett, 1924	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_4c14b553-d94b-46da-b2f9-3bf411004f74	Mycomya	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_15a1a55b-509d-4f5f-bdce-4615a92c4103	Boletina nigricans Dziedzicki, 1885	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_4f109205-6790-409b-9816-3611e47bd393	Boletina	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_b17b4797-b6cb-4501-85eb-c5e10fd6afc5	Phronia humeralis Winnertz, 1863	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_5cd26c91-a4f8-4642-b56f-1f8cc5edd8fe	Bolitophila	female	Jostein Kjærandsen	Bolitophilidae	Diptera	genus
+JPL_A124	JPL_A124_834b88f9-ba76-4beb-8976-d72cd09ed0ac	Boletina trivittata (Meigen, 1818)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_42af90ac-695c-415b-88c0-3c3f4f8b7737	Zygomyia semifusca (Meigen, 1818)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_575854bb-ed7a-45ff-b97e-14f1fcdfe5ea	Docosia tibialis Lastovoka, 2006	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_4c1ea2b6-51ea-432e-ba91-4e56d4ee8f8c	Boletina trivittata (Meigen, 1818)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_1195df3f-b289-4051-bc73-f1231d25291b	Exechia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_086e8f50-fbbd-4091-8748-a71a4f9826ce	Exechia subfrigida Lastovka & Matile, 1974	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_1024e993-d0c2-43ba-a192-488fdf2b088d	Boletina pectinunguis Edwards, 1932	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_2575d629-9cd3-4097-aadd-c96b0f3de9d0	Boletina <paragripha>JKJ-spA	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A124	JPL_A124_c22f2e16-1086-453b-9e3b-b79669da84d6	Exechia lundstroemi Landrock, 1923	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_54262cc4-bf09-4244-947a-f4f45fed9465	Mycomya shermani Garrett, 1924	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_d31c671e-ac77-4fc7-b4ed-08e74743a49f	Katatopygia sahlbergi (Lundstrom, 1906)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_d69776d6-4577-4fc5-8df7-cd9fd34f326f	Exechia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_2f05ab36-13b2-41fa-aaad-0bfd38f4e80b	Mycomya	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_16c3124c-2eed-44f2-8040-7347176cf0bb	Coelosia tenella (Zetterstedt, 1852)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_adde9db1-a727-4eaf-bf90-d32b9b5437cf	Exechia lundstroemi Landrock, 1923	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_a5537bb3-cedd-4039-b1b9-4923ee791585	Boletina	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_6f4e0ac0-b8b5-4527-be4c-00e7489f6a20	Boletina nigricans Dziedzicki, 1885	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_644cfb62-cd19-41be-b733-df941c58430a	Exechia subfrigida Lastovka & Matile, 1974	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_ec8bf1d3-07c9-4622-a01d-6a895cdff2f3	Boletina	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_db803ceb-d4e6-4121-8984-6352fa0bad17	Boletina nigricans Dziedzicki, 1885	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_06012206-a4f4-43af-85e3-5dae592e8f1e	Mycomya	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A124	JPL_A124_1076fb4b-3191-4ff2-836f-1d0fb9c3d33d	Notolopha brachycera (Zetterstedt, 1852)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A124	JPL_A124_a7aff109-bffc-4443-800b-76a7a7d24d10	Boletina	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_01b674e5-11e3-44f1-b62f-72c166bd3a1a	Lauxaniidae	male	Jostein Kjærandsen	Lauxaniidae	Diptera	family
+JPL_A125	JPL_A125_cf6ca9f2-c071-4623-8455-b43b4fa8c49a	Mycomya shermani Garrett, 1924	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A125	JPL_A125_bf81fc82-a005-4454-9bcb-ae87871af532	Mycomya	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_5ec41e6b-8e9d-4567-b34f-5239681a9cdf	Phronia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_2f212bdf-03cb-45b8-b99f-234d9babe2c9	Mycomya	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_379747a2-816d-4108-9663-81bc57ed40d9	Brevicornu	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_4cb2c773-8c40-4acd-b25c-0ebd3cd14ba0	Phronia obscura Dziedzicki, 1889	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A125	JPL_A125_51b2db92-a0f9-4ed4-add0-fba548e3cd37	Exechiopsis indecisa (Walker, 1856)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A125	JPL_A125_724f1b1e-4826-478b-9241-fb0ea5da9474	Mycetophila forcipata Lundstrom, 1913	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A125	JPL_A125_93f621b7-25a9-48f7-91cf-c259c6e2716c	Boletina	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_c728bc2f-c9ee-4a9e-93b6-cdacc96e03e6	Mycomya	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_5cb7d6c2-c247-4c00-a4a1-2d61dd19d4b6	Exechia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_8d106b7f-abf1-41c6-ae3f-965c70fb9df5	Exechia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_dadd9003-9a63-4e9b-b817-53cc50a74220	Exechiopsis <cryptindecisa>JKJ-spB	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A125	JPL_A125_4dc36d2e-aa6c-49e4-b4ff-1a77138afdeb	Mycetophila ruficollis group	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A125	JPL_A125_0ad39303-944c-40e0-8f07-7d6ac4a16852	Exechia	female	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A125	JPL_A125_e38d4b3e-a074-405a-91df-7dfd9e4c7dad	Exechia <karstroemi>JKJ-spE	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A125	JPL_A125_aa23f7f9-5048-49b2-a389-6351fc6bad33	Exechiopsis <cryptindecisa>JKJ-spB	male	Jostein Kjærandsen	Mycetophilidae	Diptera	spnov
+JPL_A125	JPL_A125_f95e3797-e50f-4ac4-aa2f-36e9340a957e	Exechia dorsalis (Staeger, 1840)	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A127	JPL_A127_a708f2f0-9dc5-4257-b523-cb3c528527cd	Exechia frigida (Boheman, 1865)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A125	JPL_A125_de5bf259-767d-475f-986d-f3d3861818c6	Mycetophila vittipes group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A125	JPL_A125_71ea9b62-a837-4c3f-8444-2b4954cef791	Mycetophila vittipes group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A125	JPL_A125_8b784d79-c37c-4edf-b517-f153d09841da	Cordyla	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A126	JPL_A126_4248503e-c76c-41d2-84e9-eed7b33aeddd	Exechia lundstroemi Landrock, 1923	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_d2fc269d-3a60-43dc-98a7-4eca5742fdf3	Boletina sciarina Staeger, 1840	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_6576f8d1-bd4e-41be-897e-2342130fef3a	Phronia exigua (Zetterstedt, 1852)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_5df499ee-f7ca-4d6e-86d6-701736f5d0c3	Boletina	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A126	JPL_A126_80e42439-ee01-4fa2-abae-bac6c6b1d86e	Exechia lundstroemi Landrock, 1923	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_556823fc-d83d-40fc-86c0-c4183ee38bac	Boletina fennoscandica Polevoi & Hedmark, 2004	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_f7245ce6-3fc1-4b1e-8903-6e850a8a130b	Mycetophila vittipes group	female	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A126	JPL_A126_4bcf9a36-1c01-4f49-a5d5-39860ec3007b	Boletina fennoscandica Polevoi & Hedmark, 2004	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_6126ab6c-b0bb-4746-9684-ee187ae230cc	Mycetophila vittipes group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A126	JPL_A126_885bda16-7e36-4ac1-8b3a-5a4f465ab333	Boletina fennoscandica Polevoi & Hedmark, 2004	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_b65447d5-b199-4f52-912c-8748c1d8677d	Mycetophila vittipes group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A126	JPL_A126_e1a1469b-0843-4bd9-8439-8d0c35e44ee9	Mycomya shermani Garrett, 1924	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_52736b03-a842-4e94-9f9b-885a63f94918	Exechiopsis pseudindecisa (Lastovka & Matile, 1974)	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species
+JPL_A126	JPL_A126_e0073d46-7158-40f9-bfd6-009dbc6c6799	Mycomya	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
+JPL_A126	JPL_A126_ec781009-f443-48f1-a5ca-32179f42ba78	Mycetophila vittipes group	male	Jostein Kjærandsen	Mycetophilidae	Diptera	species-group
+JPL_A126	JPL_A126_cbb5b511-64ce-49ae-b88b-450fa4c37576	Exechia	male	Jostein Kjærandsen	Mycetophilidae	Diptera	genus
