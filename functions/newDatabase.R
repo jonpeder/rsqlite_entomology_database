@@ -37,6 +37,7 @@ newDatabase <- function(db_name) {
            eventID VARCHAR (50) NOT NULL,
            countryCode CHAR (2),
            stateProvince VARCHAR (50),
+           county VARCHAR (50),
            strand_id CHAR (5),
            municipality CHAR (30),
            locality_1 VARCHAR (50),
