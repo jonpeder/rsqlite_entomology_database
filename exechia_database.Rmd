@@ -1,0 +1,20 @@
+---
+title: "exechia_database"
+author: "Jon Peder Lindemann"
+date: "6/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Print species labels
+```{r}
+species_names <- read.table("exechia_species.txt.csv", header = T, sep = ";")
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
+source("functions/detLabels.R")
+
+detLabels(tmu_db, scientificName = species_names$scientificName, family = "Mycetophilidae", taxonRank = "species", order = "Diptera", filename = "exechia.pdf", owner_code = "TMU", higher_ranks = FALSE, add_taxa = TRUE)
+```
+

@@ -9,6 +9,7 @@
 
 addOccurrences <- function(CONN, 
                             occurrenceID = "",
+                            catalogNumber = "",
                             eventID = "",
                             scientificName,
                             taxonRank = "",
@@ -51,6 +52,7 @@ addOccurrences <- function(CONN,
   
   # Add input to dataframe. Adds default values to all rows
   y <- data.frame(occurrenceID,
+                  catalogNumber,
                   eventID,
                   identifiedBy,
                   individualCount,
@@ -115,9 +117,10 @@ addOccurrences <- function(CONN,
     # Paste input data into an SQL command
     # Insert Occurrences-row or replace (update) if 'occurrenceID' is already present.
     occurrences_tmp <- paste(
-      "INSERT INTO Occurrences (occurrenceID, eventID, scientificName, identifiedBy, individualCount, sex, lifeStage, preparations, occurrenceRemarks, unit_id, ownerInstitutionCode, modified) VALUES ('", 
+      "INSERT INTO Occurrences (occurrenceID, catalogNumber, eventID, scientificName, identifiedBy, individualCount, sex, lifeStage, preparations, occurrenceRemarks, unit_id, ownerInstitutionCode, modified) VALUES ('", 
       paste(
         y$occurrenceID[i],
+        y$catalogNumber[i],
         y$eventID[i],
         y$scientificName[i],
         y$identifiedBy[i],

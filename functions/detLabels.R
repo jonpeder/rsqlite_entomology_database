@@ -2,10 +2,14 @@
 # Print determination labels
 # CONN              | a sting that specifies the database connection
 # scientificName    | a string or vector of strings specifying a taxon name from the Taxa table
+# taxonRank         | a string that specifies the taxon rank (species, spnov, genus, species-group, famly, order, etc)
+# family
+# order
 # n                 | an integer or vector of integers specifying the number of labels to be plotted.
 # filename          | a string specifying file name of output pdf
-# owner_code  | a string specifying the collection code to be printed on the labels
-# add_taxa        | a logical value that specifies whether or not new taxa should be added to the database. If TRUE the taxon data will be added to the Taxa table in the database when using the occurrence QR function
+# owner_code        | a string specifying the collection code to be printed on the labels
+# taxonRank         | a string specifying taxon rank. If stated, it should be one of the following ranks: "species", "species-group", "genus", "tribe", "subfamily", "family", "superfamily", "infraorder", "order", "class", "spnov", "other"
+# add_taxa          | a logical value that specifies whether or not new taxa should be added to the database. If TRUE the taxon data will be added to the Taxa table in the database when using the occurrence QR function
 # higher_ranks      | a logical value that will set the label adjustments. If FALSE, labels will be adjusted for species, genus, or species group level. If TRUE, labels will be adjusted for higher ranks such as family or order level
 
 detLabels <- function(CONN, 

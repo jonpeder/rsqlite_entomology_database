@@ -135,6 +135,7 @@ newDatabase <- function(db_name) {
   dbExecute(CONN, "
             CREATE TABLE Occurrences (
             occurrenceID VARCHAR (80) NOT NULL,
+            catalogNumber VARCHAR (20) UNIQUE,
             eventID VARCHAR (20),
             scientificName VARCHAR (50),
             identifiedBy VARCHAR (100),

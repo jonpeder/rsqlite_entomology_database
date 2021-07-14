@@ -27,7 +27,7 @@ dbDisconnect(tmu_db)
 ```{r}
 tmu_db <- dbConnect(SQLite(),"tmu_collection.db") # Connect to database
 source("functions/addPrj.R")
-addPrj(tmu_db, projectTitle = "test project6", projectOwner = "Jon Peder Lindemann", projectStartDate = "2021-03-03")
+addPrj(tmu_db, projectTitle = "Duty_work", projectOwner = "Jon Peder Lindemann", projectStartDate = "2021-07-03")
 dbDisconnect(tmu_db)
 ```
 
@@ -67,21 +67,24 @@ addEvents(tmu_db,
 dbDisconnect(tmu_db)
 
 # Populate from single event
+latlon = c(69.685433, 18.951323)
+strandkode <- strandr::strandr(lat = latlon[1], lon = latlon[2])
 addEvents(tmu_db, 
-          eventID = "TMU-JKJ-COL-000509", 
-          county = "Finnmark",
-          strand_id = "FN",
-          municipality = "Tana", 
-          locality_1 = "Syltefjorddalen Nature Reserve",
-          #locality_2 = "Sukkeråsen ", 
-          decimalLatitude = "70.525556",
-          decimalLongitude = "29.970278", 
-          coordinateUncertaintyInMeters = "10", 
-          samplingProtocol = "mt",
-          eventDate_1 = "2017-07-27",
-          eventDate_2 = "2017-09-27", 
-          eventRemarks = "MT 8 (new SRN)",
-          recordedBy = "Jostein Kjærandsen | Jon Peder Limdemann"
+          eventID = "JPL_A208", 
+          county = "Troms og Finnmark",
+          strand_id = strandkode$strand,
+          municipality = "Tromsø", 
+          locality_1 = "Tromsøya",
+          locality_2 = "Håpet", 
+          decimalLatitude = latlon[1],
+          decimalLongitude = latlon[2], 
+          coordinateUncertaintyInMeters = "5", 
+          samplingProtocol = "hp",
+          eventDate_1 = "2018-07-06",
+          #eventDate_2 = "2021-04-12", 
+          #eventRemarks = "",
+          habitat = "in window",
+          recordedBy = "Jon Peder Lindemann"
           )
 dbDisconnect(tmu_db)
 
@@ -96,69 +99,77 @@ for (i in 1:ncol(occ)) {
   occ[,i] <- trimws(occ[,i])
 }
 
-# populate Occurrences
+# populate Occurrences from table
 source("functions/addOccurrences.R")
 addOccurrences(tmu_db, 
-                occurrenceID = occ$uuid, 
-                eventID = occ$col_id, 
-                identifiedBy = occ$det,
-                scientificName = occ$name, 
-                family = occ$fam, 
-                order = occ$ord, 
-                taxonRank = occ$rank, 
-                sex = occ$sex, 
+                occurrenceID = "TSZ-JPL-469c27cc-e2ec-11e9-8a77-774a912b890a",
+                eventID = "JPL_A208",
+                scientificName = "Thereva lanata",
+                taxonRank = "other",
                 ownerInstitutionCode = "TMU")
+
+# populate occurrences with catalog number
+addOccurrences(tmu_db, 
+                occurrenceID = sapply(1:7, uuid::UUIDgenerate),
+                catalogNumber = paste("TSZD-JPL-", seq(from = 100100, length.out = 7), sep = ""),
+                eventID = "JPL_A194", 
+                identifiedBy = "Jon Peder Lindemann",
+                scientificName = "Exechia neorepanda", 
+                family = "Mycetophilidae", 
+                order = "Diptera", 
+                taxonRank = "spnov",
+                sex = "", 
+                ownerInstitutionCode = "TMU")
+
 
 dbDisconnect(tmu_db)
 ```
 
 # Populate occurrences with qr-label data
 ```{r}
-tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
 source("functions/qrImport.R")
-qrImport(tmu_db, qr_data = test, identifiedBy = "Jon Peder Lindemann", projectTitle = "test project6")
+qrImport(tmu_db, qr_data = scan, identifiedBy = "Jon Peder Lindemann", projectTitle = "Duty_work")
 ```
 
 # Write specimen labels
 ```{r}
-tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
 source("functions/insectLabels.R")
 sysfonts::font_add_google("Quicksand", "quick")
 showtext::showtext_auto()
 sysfonts::font.families()
 
-all_events <- dbGetQuery(tmu_db, "SELECT eventID FROM Collecting_events WHERE municipality = 'Grimstad'")
-all_events[,1]
-
-new_labels = read.table("specimen_labels_18152021.txt", header = FALSE, sep = "\t")
 # Plot labels
-insectLabels(tmu_db, new_labels$V1, n = new_labels$V2, filename = "mycetophilidae_specimen_labels.pdf", type = "mycet", font_family = "quick")
+insectLabels(tmu_db, c("JPL_A119"), n = 3, filename = "bombus.pdf", type = "medium", font_family = "quick")
+
+source("functions/catalogLabels.R")
+catalogLabels(tmu_db, catalogNumber = paste("TSZD-JPL-", seq(from = 100100, length.out = 7), sep = ""), filename = "exechia_neorepanda.pdf", type = "type", font_family = "quick")
+
 
 ```
 
+
 # Write det. labels
 ```{r}
-tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
 source("functions/detLabels.R")
-
-# Get all species, spnov species-group and genus names from the Taxa table
-all_species <- dbGetQuery(tmu_db, "SELECT scientificName FROM Taxa WHERE taxonRank = 'species' OR taxonRank = 'genus'")
-# Get all higher rank names from the Taxa table
-all_higher_ranks <- dbGetQuery(tmu_db, "SELECT scientificName FROM Taxa WHERE taxonRank != 'species' AND taxonRank != 'spnov' AND taxonRank != 'species-group' AND taxonRank != 'genus'")
-
-detLabels(tmu_db, scientificName = all_species[,1], filename = "species.pdf", owner_code = "TMU", higher_ranks = FALSE, add_taxa = FALSE)
+detLabels(tmu_db, scientificName = c("Diptera", "Hemiptera", "Aranae", "Pseudoscorpionida"), taxonRank = "order", order = c("Diptera", "Hemiptera", "Aranae", "Pseudoscorpionida"), filename = "diptera.pdf", owner_code = "TMU", higher_ranks = TRUE, add_taxa = TRUE)
 
 ```
 
 export to simple darwin core xml file
 ```{r}
 source("functions/simpleExport.R")
-test <- simpleExport(CONN = tmu_db, file_name = "test", rank = "species", new_records = FALSE, write_simple_dwc = TRUE, write_dwc_archive = TRUE, datasetName = "Pteromalidae Norway")
+test <- simpleExport(CONN = tmu_db, file_name = "test", rank = "species",  new_records = FALSE, write_simple_dwc = TRUE, write_dwc_archive = TRUE, datasetName = "Pteromalidae Norway")
 ```
 
 Add occurrences to a project
 ```{r}
 source("functions/addToProject.R")
 addToProject(tmu_db, occurrenceID = test, projectTitle = "test project")
+```
+
+
+Change value in a table
+```{r}
+dbExecute(tmu_db, "update Collecting_events set municipality='Storfjord' where eventID='JPL_A200'")
 ```
 
