@@ -5,8 +5,10 @@
 # db_query | a table that contains occurrence data, with header names in Darwin Core terms
 # file_name | a string that specifies the export file name
 
-dwcaExport <- function(db_query, file_name) {
+dwcaExport <- function(db_query) {
 
+file_name <- timestamp(prefix = "dwca_export_", suffix = ".txt")
+  
 xml_dwca <- paste('<?xml version="1.0"?>\n',
               '<archive xmlns="http://rs.tdwg.org/dwc/text/">\n',
               '\t<core encoding="UTF-8" linesTerminatedBy="\\n" fieldsTerminatedBy="\\t" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Occurrence">\n',

@@ -27,7 +27,7 @@ dbDisconnect(tmu_db)
 ```{r}
 tmu_db <- dbConnect(SQLite(),"tmu_collection.db") # Connect to database
 source("functions/addPrj.R")
-addPrj(tmu_db, projectTitle = "Duty_work", projectOwner = "Jon Peder Lindemann", projectStartDate = "2021-07-03")
+addPrj(tmu_db, projectTitle = "Exechia_determinations", projectOwner = "Jon Peder Lindemann", projectStartDate = "2021-07-03")
 dbDisconnect(tmu_db)
 ```
 
@@ -70,20 +70,20 @@ dbDisconnect(tmu_db)
 latlon = c(69.685433, 18.951323)
 strandkode <- strandr::strandr(lat = latlon[1], lon = latlon[2])
 addEvents(tmu_db, 
-          eventID = "JPL_A208", 
+          eventID = "JPL_A209", 
           county = "Troms og Finnmark",
-          strand_id = strandkode$strand,
-          municipality = "Tromsø", 
-          locality_1 = "Tromsøya",
-          locality_2 = "Håpet", 
-          decimalLatitude = latlon[1],
-          decimalLongitude = latlon[2], 
-          coordinateUncertaintyInMeters = "5", 
-          samplingProtocol = "hp",
-          eventDate_1 = "2018-07-06",
-          #eventDate_2 = "2021-04-12", 
+          strand_id = "TRI",
+          municipality = "Storfjord", 
+          locality_1 = "Skibotndalen",
+          locality_2 = "Bærfjellet", 
+          decimalLatitude = "69.31782",
+          decimalLongitude = "20.38607", 
+          coordinateUncertaintyInMeters = "10", 
+          samplingProtocol = "mt",
+          eventDate_1 = "2019-06-01",
+          eventDate_2 = "2019-07-03", 
           #eventRemarks = "",
-          habitat = "in window",
+          habitat = "Pupulus/Pinus forest",
           recordedBy = "Jon Peder Lindemann"
           )
 dbDisconnect(tmu_db)
@@ -102,10 +102,10 @@ for (i in 1:ncol(occ)) {
 # populate Occurrences from table
 source("functions/addOccurrences.R")
 addOccurrences(tmu_db, 
-                occurrenceID = "TSZ-JPL-469c27cc-e2ec-11e9-8a77-774a912b890a",
-                eventID = "JPL_A208",
-                scientificName = "Thereva lanata",
-                taxonRank = "other",
+                occurrenceID = "TSZ-JPL-d6032284-e3a2-11e9-8e02-03ce3011d93e",
+                eventID = "",
+                scientificName = "Exechia lundstroemi Landrock, 1923",
+                taxonRank = "species", order = "Diptera", family = "Mycetophilidae", identifiedBy = "Jon Peder Lindemann", sex = "male",
                 ownerInstitutionCode = "TMU")
 
 # populate occurrences with catalog number
@@ -151,8 +151,7 @@ catalogLabels(tmu_db, catalogNumber = paste("TSZD-JPL-", seq(from = 100100, leng
 # Write det. labels
 ```{r}
 source("functions/detLabels.R")
-detLabels(tmu_db, scientificName = c("Diptera", "Hemiptera", "Aranae", "Pseudoscorpionida"), taxonRank = "order", order = c("Diptera", "Hemiptera", "Aranae", "Pseudoscorpionida"), filename = "diptera.pdf", owner_code = "TMU", higher_ranks = TRUE, add_taxa = TRUE)
-
+detLabels(tmu_db, scientificName = c("Diptera", "Hymenoptera", "Symphyta", "Mycetophilidae"), taxonRank = c("order", "order", "infraorder", "family"), order = c("Diptera", "Hymenoptera", "Hymenoptera", "Diptera"), family = c("", "", "", "Mycetophilidae"), filename = "higher.pdf", owner_code = "TMU", add_taxa = TRUE, setup = "higher")
 ```
 
 export to simple darwin core xml file
@@ -163,13 +162,19 @@ test <- simpleExport(CONN = tmu_db, file_name = "test", rank = "species",  new_r
 
 Add occurrences to a project
 ```{r}
-source("functions/addToProject.R")
-addToProject(tmu_db, occurrenceID = test, projectTitle = "test project")
+source("functions/alterPrjOcc.R")
+alterPrjOcc(tmu_db, projectTitle = "Duty_work", occurrenceID = test)
+```
+Show occurrences in project
+```{r}
+source("functions/prjOcc.R")
+test2 <- prjOcc(tmu_db, projectTitle = "Duty_work")
+length(unique(test2))
 ```
 
 
 Change value in a table
 ```{r}
-dbExecute(tmu_db, "update Collecting_events set municipality='Storfjord' where eventID='JPL_A200'")
+dbExecute(tmu_db, "update Collecting_events set recordedBy='' where recordedBy='Rita Stenersen'")
 ```
 

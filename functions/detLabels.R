@@ -2,26 +2,27 @@
 # Print determination labels
 # CONN              | a sting that specifies the database connection
 # scientificName    | a string or vector of strings specifying a taxon name from the Taxa table
-# taxonRank         | a string that specifies the taxon rank (species, spnov, genus, species-group, famly, order, etc)
-# family
-# order
+# taxonRank         | a string specifying taxon rank ("species"/"species-group"/"genus"/"tribe"/"subfamily"/"family"/"superfamily"/"infraorder"/"order"/"class"/"spnov"/"other")
+# family            | 
+# order             |
+# sex               | a string specifying sex ("male"/"female"/"")
 # n                 | an integer or vector of integers specifying the number of labels to be plotted.
 # filename          | a string specifying file name of output pdf
 # owner_code        | a string specifying the collection code to be printed on the labels
-# taxonRank         | a string specifying taxon rank. If stated, it should be one of the following ranks: "species", "species-group", "genus", "tribe", "subfamily", "family", "superfamily", "infraorder", "order", "class", "spnov", "other"
 # add_taxa          | a logical value that specifies whether or not new taxa should be added to the database. If TRUE the taxon data will be added to the Taxa table in the database when using the occurrence QR function
-# higher_ranks      | a logical value that will set the label adjustments. If FALSE, labels will be adjusted for species, genus, or species group level. If TRUE, labels will be adjusted for higher ranks such as family or order level
+# setup             | a string specifying the label setup ("higher"/"lower"/"lower_small")
 
 detLabels <- function(CONN, 
                       scientificName,
                       taxonRank = NULL,
                       family = "",
                       order = "",
+                      sex = "",
                       n = 1, 
                       filename = "detlabels.pdf",
                       owner_code = "TMU",
                       add_taxa = TRUE,
-                      higher_ranks = FALSE) {
+                      setup = "lower") {
   
     # If 'n' is a single integer, create a vector of 'n' repeated
   if (length(n) == 1) {
@@ -81,7 +82,8 @@ detLabels <- function(CONN,
       family,
       order,
       taxonRank,
-      scientificName)
+      scientificName
+      )
     # For each record extract information from 'scientificName' column and add to 'genus', 'specificEpiteth' and 'scientificNameAuthorship' columns
     for (u in 1:nrow(y)) {
       ## Where 'taxonRank' equals "species" or "spnov", extract 'genus', 'specificEpiteth' and (if present) 'scientificNameAuthorship'
@@ -99,24 +101,37 @@ detLabels <- function(CONN,
     }
     taxon_data <- y
   }
-
+  
+  # Create variable with unicode famale and male symbols
+  sex2 = sex
+  sex2[sex2 == "female"] <- "F"
+  sex2[sex2 == "male"] <- "M"
+  sex2 = paste("   ",sex2)
+  
   # Add collection code to table  
-  taxon_data <- data.frame(taxon_data, owner_code)
+  #taxon_data <- data.frame(taxon_data, owner_code)
   
   # Add "det." prefix to 'scientificName'
-  taxon_data$prefix_name <- paste("det.", taxon_data$scientificName, sep = "")
+  taxon_data <- data.frame(taxon_data, owner_code, sex, sex2, prefix_name = paste("det.", taxon_data$scientificName, sep = ""))
   
   # Write labels
-  ## if 'higher_ranks' is FALSE, write labels adjusted for species, genus or species-group level
-  if (isFALSE(higher_ranks)) {
-    
+  if (setup == "lower") {
     insectlabel::insectlabel(label_df = taxon_data, n = n, x = 16, y = 3, filename = filename, family = "sans", font = c(3,0,1),
-                             text_order = list(c(1,2), 3, 4), QR_data = c(10,7,6,5,9,1), fontsize = c(4, 2.7, 3), linedist = 0.5, 
+                             text_order = list(c(1,2), 3, c(4,10)), QR_data = c(12,7,6,5,10,9,1), fontsize = c(4, 2.7, 3), linedist = 0.5, 
                              tx = 12, ty = -3, QRd = 5, QRx = 5, QRy = -3, delim = ";", qrlevel = 1)
-  } else { ## if 'higher_ranks' is TRUE, write labels adjusted for family or order or other higher taxon ranks 
-    insectlabel::insectlabel(label_df = taxon_data, n = n, x = 16, y = 3, filename = filename, family = "sans", font = c(0,1),
-                             text_order = list(6 ,7), QR_data = c(10,7,6,5,9,1), fontsize = c(3.8, 6.8), linedist = 0.36, tx = 12, 
-                             ty = 6, QRd = 5, QRx = 5, QRy = -3, delim = ";", qrlevel = 1)
+  }
+  
+  if (setup == "lower_small") {
+    insectlabel::insectlabel(label_df = taxon_data, n = n, x = 25, y = 4, filename = filename, family = "sans", font = c(3,0,1),
+                             text_order = list(c(1,2), 3, c(4,10)), QR_data = c(12,7,6,5,10,9,1), fontsize = c(4, 2.7, 3), linedist = 0.6, 
+                             tx = 12, ty = -3, QRd = 4, QRx = 5, QRy = -3, delim = ";", qrlevel = 0)
+  }
+  
+  
+  if (setup == "higher") { 
+    insectlabel::insectlabel(label_df = taxon_data, n = n, x = 16, y = 3, filename = filename, family = "sans", font = c(0,1,0),
+                             text_order = list(6,7,10), QR_data = c(12,7,6,5,10,9,1), fontsize = c(3.8, 5, 2.5), linedist = 0.5, tx = 12, 
+                             ty = -8, QRd = 5, QRx = 5, QRy = -3, delim = ";", qrlevel = 1)
   }
   
 }

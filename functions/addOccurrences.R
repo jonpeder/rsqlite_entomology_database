@@ -139,12 +139,12 @@ addOccurrences <- function(CONN,
     ## Taxa
     tryCatch({
       dbExecute(CONN, taxa_tmp)
-    }, error=function(e){cat("ERROR :",conditionMessage(e), " on row",i," when populating the 'Taxa' table.\n-The error may be associated with 'taxonRank' input\n\n")})
+    }, error=function(e){cat("ERROR :",conditionMessage(e), " on row",i," when populating the 'Taxa' table.\nOccurrenceID:",y$occurrenceID[i],"\n-The error may be associated with 'taxonRank' input\n\n")})
     ## Occurrences. Skip if no occurrenceID is specified. 
     if (isFALSE(isTRUE(y$occurrenceID == ""))) {
       tryCatch({
         dbExecute(CONN, occurrences_tmp)
-      }, error=function(e){cat("ERROR :",conditionMessage(e), " on row",i,"\n-The error may be associated with 'eventID', 'sex' or 'lifeStage' input\n\n")})
+      }, error=function(e){cat("ERROR :",conditionMessage(e), " on row",i," when populating the 'Occurrences' table.\nOccurrenceID:",y$occurrenceID[i],"\n-The error may be associated with 'eventID', 'sex' or 'lifeStage' input\n\n")})
     }
   }
   

@@ -9,7 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Print species labels
+## Add collecting events to database
+
+## Print specimen labels
+
+## Print species determination labels
 ```{r}
 species_names <- read.table("exechia_species.txt.csv", header = T, sep = ";")
 tmu_db <- dbConnect(SQLite(),"tmu_collection.db")
@@ -17,4 +21,29 @@ source("functions/detLabels.R")
 
 detLabels(tmu_db, scientificName = species_names$scientificName, family = "Mycetophilidae", taxonRank = "species", order = "Diptera", filename = "exechia.pdf", owner_code = "TMU", higher_ranks = FALSE, add_taxa = TRUE)
 ```
+
+# Create a dataset
+```{r}
+tmu_db <- dbConnect(SQLite(),"tmu_collection.db") # Connect to database
+source("functions/addDataset.R")
+addDataset(tmu_db, datasetName = "Insect collection, TSZ", collectionCode = "TSZ", institutionCode = "TMU", rightsHolder = "Tromsø University Museum")
+dbDisconnect(tmu_db)
+```
+# Add occurrences to dataset
+```{r}
+source("functions/alterDsOcc.R")
+source("functions/prjOcc.R")
+alterDsOcc(tmu_db, datasetName = "Insect collection, TSZ", occurrenceID = prjOcc(tmu_db, projectTitle = "Duty_work"))
+
+# Check length of occurrences
+source("functions/dsOcc.R")
+length(dsOcc(tmu_db, datasetName = "Insect collection, TSZ"))
+```
+
+# Export occurrences the new dataset as DWCA
+```{r}
+source("functions/simpleExport.R")
+test <- simpleExport_1(tmu_db, datasetName = "Insect collection, TSZ", write_dwca = TRUE)
+```
+
 

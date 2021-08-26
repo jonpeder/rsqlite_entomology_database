@@ -4,31 +4,38 @@
 # CONN | Database connection
 # new_records | logical, if TRUE, restrict query to include only records that have not previously been exported
 # rank | a vector of character strings that specifies what taxon ranks to be exported, usually "species", "genus", "family", and/or "order"
+# occurrenceIDs
+# datasetName
+# write_dwca
 
-## Lag en løsning for å eksportere data basert på projectName
-
-simpleExport <- function(CONN, 
-                        file_name, 
-                        new_records = TRUE, 
-                        rank = NULL, 
-                        write_simple_dwc = FALSE,
-                        write_dwc_archive = FALSE,
-                        datasetName) {
+simpleExport_1 <- function(CONN,
+                         rank = NULL,
+                         occurrenceID = NULL,
+                         datasetName = NULL,
+                         write_dwca = FALSE) {
   
-  # Prepare query statement for selecting only records not previously exported
-  if (isTRUE(new_records)) {
-    statement_1 <- "Occurrences.last_export IS NULL AND "
-  } else {
-    statement_1 <- ""
+  # If occurrence IDs or a dataset is specified, make a vector of occurrenceIDs
+  if (isFALSE(is.null(datasetName))) {
+    source("functions/dsOcc.R")
+    occIDs <- dsOcc(CONN, datasetName = datasetName)
+  } 
+  else if (isFALSE(is.null(occurrenceID))) {
+    occIDs <- occurrenceID
   }
-  
-  # Prepare query statement for selecting taxon rank. If taxon rank is not specified, select all records with a (non-empty) taxonRank value.
+  else {
+    occIDs <- ""
+  }
+  # Prepare a WHERE query statement for selecting records with specified occurrenceIDs and/or with specified taxonomic rank
   if (is.null(rank)) {
-    statement_2 <-  "Taxa.taxonRank != '' AND Taxa.taxonRank IS NOT NULL"
-  } else {
-    statement_2 <- paste("Taxa.taxonRank = '",rank[1] ,"' ", sep = "")
-    for (i in 2:length(rank)) {
-      statement_2 <- paste(statement_2, "OR ", statement_1, "Taxa.taxonRank = '",rank[i] ,"' ", sep = "")
+    query_statement <- paste(" WHERE Occurrences.occurrenceID IN ('", paste(occIDs, collapse = "', '"), "')", sep = "")
+  }
+  else {
+    query_statement <- paste(" WHERE Occurrences.occurrenceID IN ('", paste(occIDs, collapse = "', '"), "') AND Taxa.taxonRank = '", rank[1], "'", sep = "")
+    if (isTRUE(length(rank) > 1)) {
+      for (i in 2:length(rank)) {
+        query_statement_tmp <- paste("Occurrences.occurrenceID IN ('", paste(occIDs, collapse = "', '"), "') AND Taxa.taxonRank = '", rank[i], "'", sep = "")
+        query_statement <- paste(query_statement, query_statement_tmp, sep = " OR ")
+      }
     }
   }
   
@@ -37,6 +44,7 @@ simpleExport <- function(CONN,
     SELECT 
       Occurrences.modified,
       Occurrences.occurrenceID,
+      Occurrences.catalogNumber,
       Taxa.scientificName,
       Taxa.taxonRank,
       Taxa.scientificNameAuthorship,
@@ -91,30 +99,26 @@ simpleExport <- function(CONN,
     INNER JOIN
       Collecting_methods
     ON 
-      Collecting_methods.ID = Collecting_events.samplingProtocol
-    WHERE ", paste(statement_1, statement_2, sep =""), sep = ""))
+      Collecting_methods.ID = Collecting_events.samplingProtocol", 
+    query_statement, sep = ""))
   
-  # If write_simple_dwc and write_dwc_archive is FALSE, return query result
-  if (isFALSE(write_simple_dwc) & isFALSE(write_dwc_archive)) {
+  # If write_dwca is FALSE, return query result
+  if (isFALSE(write_dwca)) {
     return(query)
-  }
+  } 
   else {
-      # Query dataset data and add combine the two queries
-      query_dataset <- dbGetQuery(CONN, paste("SELECT * FROM Datasets WHERE datasetName = '", datasetName, "'", sep = ""))
-      query = data.frame(modified = paste(substr(query$modified, 1, 10),'T',substr(query$modified, 12, 16), 'Z', sep = ""), 
-                         query_dataset[,c(4,1,2,3)], 
-                         query[, !(names(query) %in% "modified")])
+    # Get dataset data and add combine with the dataframe from the query
+    query_dataset <- dbGetQuery(CONN, paste("SELECT * FROM Datasets WHERE datasetName = '", datasetName, "'", sep = ""))
+    query = data.frame(modified = paste(substr(query$modified, 1, 10),'T',substr(query$modified, 12, 16), 'Z', sep = ""), 
+                       query_dataset[,c(4,2,3)], 
+                       query[, !(names(query) %in% "modified")])
+  
     
-    # Export a Simple Darwin Core XML file
-    if (isTRUE(write_simple_dwc)) {
-      source("functions/sdwcExport.R")
-      sdwcExport(db_query = query, file_name = file_name) 
-    }
     
     # Export Darwin Core archive  
-    if (isTRUE(write_dwc_archive)) {
+    if (isTRUE(write_dwca)) {
       source("functions/dwcaExport.R")
-      dwcaExport(db_query = query, file_name = file_name)
+      dwcaExport(db_query = query)
     }
     # Update 'last_export' column in Occurrences table. Use a FROM statement because UPDATE statements are not supported by JOINs in SQLite
     dbExecute(CONN, paste("
@@ -127,9 +131,8 @@ simpleExport <- function(CONN,
         SELECT 
           scientificName 
         FROM 
-          Taxa 
-        WHERE ", paste(statement_1, statement_2, sep =""), ")", sep = "")
+          Taxa", 
+        query_statement, ")", sep = "")
     )
   }
 } 
-   

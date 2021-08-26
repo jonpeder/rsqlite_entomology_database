@@ -3,10 +3,12 @@
 # Parameters:
 # CONN              | a string that specifies the database connection
 # qr_data           | a string of scanned qr codes from specimen labels and one det. label, delimited by a newline character "\n"
-# identifiedBy      | a string specifying who identified the specimen
-# lifeStage         | 
+# identifiedBy      | a string specifying name of person who identified the specimen
+# sex               | a string specifying the sex ("male"/"female"/"")
+# lifeStage         | a string specifying the lifestage ("larva"/"pupa"/"adult"/"")
 # preparations      |
 # occurrenceRemarks |
+
 
 qrImport <- function (CONN,
                       qr_data,
@@ -28,10 +30,18 @@ qrImport <- function (CONN,
       next
     }
     
-    #occ_df<- do.call(rbind.data.frame, strsplit(qr_occ, ";")) # Split specimen-label data into eventID and UUID
-    #occ_df[,2] <- paste(occ_df[,1], occ_df[,2], sep = ";") # Reconstruct occurrenceID by merging eventID and UUID
-    occ_df <- data.frame(occurrenceID = qr_occ, eventID = substr(qr_occ, 1,8)) # This is a temporary solution!
-    tax <- strsplit(qr_det, ";")[[1]] # Split det-label data delimited by ":"
+    occ <- do.call(rbind.data.frame, strsplit(qr_occ, ";")) # Extract eventID from occurreceID
+    occ_df <- data.frame (eventID = occ[,1], occurrenceID = qr_occ) # Create a table of eventIDs and occurrenceIDs
+    if (nrow(occ_df[occ_df$eventID == occ_df$occurrenceID,]) >= 1) {
+      occ_df[occ_df$eventID == occ_df$occurrenceID,][1] = "" # Remove eventIDs that equals occurrenceIDs
+    }
+    
+    detlabel <- strsplit(qr_det, ";")[[1]] # Split det-label data delimited by ";"
+    
+    # If sex is stated, replace sex from detlabel
+    if (sex != "") {
+      detlabel[5] = sex
+    }
     
     # Abort if any occurrenceID are longer than 90 characters
     for (u in 1:nrow(occ_df)) {
@@ -40,24 +50,24 @@ qrImport <- function (CONN,
       }
     }
     
-    cat("\nTaxon: ", tax[1], "\n", sep = "")
+    cat("\nTaxon: ", detlabel[1], "\n", sep = "")
     
     # Put into addOccurrences function
     source("functions/addOccurrences.R")
     addOccurrences(CONN = CONN, 
                    occurrenceID = occ_df$occurrenceID, 
                    eventID = occ_df$eventID, 
-                   scientificName = tax[1], 
-                   taxonRank = tax[2], 
-                   family = tax[4], 
-                   order = tax[3], 
+                   scientificName = detlabel[1], 
+                   taxonRank = detlabel[2], 
+                   family = detlabel[4], 
+                   order = detlabel[3], 
                    identifiedBy = identifiedBy, 
                    individualCount = 1, 
-                   sex = sex, 
+                   sex = detlabel[5], 
                    lifeStage = lifeStage, 
                    preparations = preparations, 
-                   unit_id = tax[6],
-                   ownerInstitutionCode = tax[5],
+                   unit_id = detlabel[7],
+                   ownerInstitutionCode = detlabel[6],
                    occurrenceRemarks = occurrenceRemarks)
     
   }
